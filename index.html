@@ -1,4 +1,27 @@
-<!DOCTYPE html>\n<html lang="ar" dir="rtl"><head></head><body>\n
+<!DOCTYPE html>
+<html lang="ar" dir="rtl"><head>
+
+<style>
+.table-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.export-btn{
+  border:1px solid #cfe1f5;
+  background:linear-gradient(135deg,#eef7ff,#ffffff);
+  color:#1f5f9f;
+  border-radius:11px;
+  padding:8px 12px;
+  font-family:inherit;
+  font-size:10.5px;
+  font-weight:850;
+  cursor:pointer;
+  box-shadow:0 7px 16px rgba(39,91,145,.08);
+  transition:.18s;
+}
+.export-btn:hover{transform:translateY(-1px);background:#eaf4ff}
+</style>
+
+</head>
+<body>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>نظام متابعة أعمال خطة الإستعداد (الحدود الشمالية)</title>
@@ -77,11 +100,10 @@
     <div class="hero-actions">
       <label class="btn btn-import" for="excelFile">📥 استيراد Excel</label>
       <input id="excelFile" type="file" accept=".xlsx,.xls">
-      <button class="btn btn-save" id="saveBtn">💾 حفظ نسخة بالبيانات</button>
     </div>
   </div>
   <div class="status">
-    <div class="status-left"><span class="dot"></span><span id="fileStatus">البيانات محفوظة داخل الصفحة — 323 مدرسة</span></div>
+    <div class="status-left"><span class="dot"></span><span id="fileStatus">جارٍ تحميل آخر البيانات المنشورة...</span></div>
     <div id="activeFilterText">الاختيار الحالي: كل المدارس</div>
   </div>
 </header>
@@ -121,17 +143,17 @@
   </div>
   <div class="filters">
     <input id="search" type="text" placeholder="ابحث بالرقم الوزاري أو اسم المدرسة...">
-    <select id="cityFilter"><option value="">كل المدن</option><option value="العويقيلة">العويقيلة</option><option value="رفحاء">رفحاء</option><option value="طريف">طريف</option><option value="عرعر">عرعر</option></select>
-    <select id="supervisorFilter"><option value="">كل المشرفين</option><option value="أحمد كساب">أحمد كساب</option><option value="أحمد نفاع">أحمد نفاع</option><option value="بنادر ممدوح">بنادر ممدوح</option><option value="بندر العنزى">بندر العنزى</option><option value="جميله الرويلى">جميله الرويلى</option><option value="عبدالعزيز الحازمى">عبدالعزيز الحازمى</option><option value="عبدالعزيز الشمرى">عبدالعزيز الشمرى</option><option value="عبدالله النذير">عبدالله النذير</option><option value="عمار الباقر">عمار الباقر</option><option value="فرحان العنزى">فرحان العنزى</option><option value="فهد الشمرى">فهد الشمرى</option><option value="محمد عارف">محمد عارف</option><option value="مشاعل العنزى">مشاعل العنزى</option><option value="مشعل الرويلى">مشعل الرويلى</option><option value="موسى الشمرى">موسى الشمرى</option><option value="وليد الشمرى">وليد الشمرى</option></select>
+    <select id="cityFilter"><option value="">كل المدن</option></select>
+    <select id="supervisorFilter"><option value="">كل المشرفين</option></select>
     <select id="scopeFilter">
       <option value="">كل النطاقات</option>
       <option value="clean">نظافة</option>
       <option value="maint">صيانة</option>
       <option value="ac">تكييف</option>
     </select>
-    <select id="contractorFilter"><option value="">كل المقاولين</option><option value="الاشغال الميسرة">الاشغال الميسرة</option><option value="الهاجرى">الهاجرى</option><option value="حمدان فريح">حمدان فريح</option><option value="سما الافاق">سما الافاق</option><option value="سمايا">سمايا</option></select>
-    <select id="cleanWorkflowFilter"><option value="">كل حالات النظافة</option><option value="لم يبدأ التقييم">لم يبدأ التقييم</option><option value="محفوظ">محفوظ</option><option value="مُرسل للاعتماد">مُرسل للاعتماد</option><option value="مرفوض — قيد التعديل">مرفوض — قيد التعديل</option><option value="معتمد">معتمد</option><option value="draft">draft</option></select>
-    <select id="maintWorkflowFilter"><option value="">كل حالات الصيانة</option><option value="لم يبدأ التقييم">لم يبدأ التقييم</option><option value="محفوظ">محفوظ</option><option value="مُرسل للاعتماد">مُرسل للاعتماد</option><option value="مرفوض — قيد التعديل">مرفوض — قيد التعديل</option><option value="معتمد">معتمد</option><option value="draft">draft</option></select>
+    <select id="contractorFilter"><option value="">كل المقاولين</option></select>
+    <select id="cleanWorkflowFilter"><option value="">كل حالات النظافة</option></select>
+    <select id="maintWorkflowFilter"><option value="">كل حالات الصيانة</option></select>
   </div>
   <button id="clearFilters" class="clear-btn">↺ مسح كل الفلاتر</button>
 </section>
@@ -140,7 +162,10 @@
   <div class="panel">
     <div class="panel-head">
       <div><h2>تفاصيل المدارس</h2><div class="panel-sub">الجدول يتغير مع كل فلتر أو اختيار من الكروت بالأعلى</div></div>
-    </div>
+        <div class="table-actions">
+          <button type="button" class="export-btn" id="exportTableBtn">📊 تصدير الجدول Excel</button>
+        </div>
+      </div>
     <div class="table-wrap">
         <table>
           <thead>
@@ -3816,9 +3841,10 @@ function populateBaseFilters(){
   fillSelect($("supervisorFilter"),unique(allData.map(r=>clean(r.supervisor))),"كل المشرفين",false);
   fillSelect($("cleanWorkflowFilter"),unique(allData.map(r=>clean(r.cleanWorkflow))),"كل حالات النظافة",false);
   fillSelect($("maintWorkflowFilter"),unique(allData.map(r=>clean(r.maintAcWorkflow))),"كل حالات الصيانة",false);
-  updateContractors();
+  $("scopeFilter").value="";
+  updateContractors(false);
 }
-function updateContractors(){
+function updateContractors(preserve=true){
   const scope=$("scopeFilter").value;
   let vals=[];
   if(scope==="clean") vals=allData.map(r=>clean(r.cleaningContractor));
@@ -3829,29 +3855,35 @@ function updateContractors(){
     ...allData.map(r=>clean(r.maintenanceContractor)),
     ...allData.map(r=>clean(r.acContractor))
   ];
-  fillSelect($("contractorFilter"),unique(vals),"كل المقاولين");
+  fillSelect($("contractorFilter"),unique(vals),"كل المقاولين",preserve);
 }
 function matchesContractor(r,contractor,scope){
   if(!contractor) return true;
-  if(scope) return contractorForScope(r,scope)===contractor;
-  return [r.cleaningContractor,r.maintenanceContractor,r.acContractor].map(clean).includes(contractor);
+  if(scope==="clean") return clean(r.cleaningContractor)===contractor;
+  if(scope==="maint") return clean(r.maintenanceContractor)===contractor;
+  if(scope==="ac") return clean(r.acContractor)===contractor;
+  return [
+    clean(r.cleaningContractor),
+    clean(r.maintenanceContractor),
+    clean(r.acContractor)
+  ].includes(contractor);
 }
 function baseFiltered(){
   const q=clean($("search").value).toLowerCase();
   const city=$("cityFilter").value;
-  const sup=$("supervisorFilter").value;
+  const supervisor=$("supervisorFilter").value;
   const scope=$("scopeFilter").value;
   const contractor=$("contractorFilter").value;
-  const cw=$("cleanWorkflowFilter").value;
-  const mw=$("maintWorkflowFilter").value;
+  const cleanState=$("cleanWorkflowFilter").value;
+  const maintState=$("maintWorkflowFilter").value;
 
   return allData.filter(r=>
     (!q || clean(r.ministryNo).toLowerCase().includes(q) || clean(r.school).toLowerCase().includes(q)) &&
     (!city || clean(r.city)===city) &&
-    (!sup || clean(r.supervisor)===sup) &&
+    (!supervisor || clean(r.supervisor)===supervisor) &&
     matchesContractor(r,contractor,scope) &&
-    (!cw || clean(r.cleanWorkflow)===cw) &&
-    (!mw || clean(r.maintAcWorkflow)===mw)
+    (!cleanState || clean(r.cleanWorkflow)===cleanState) &&
+    (!maintState || clean(r.maintAcWorkflow)===maintState)
   );
 }
 function cardFiltered(data){
@@ -3884,8 +3916,8 @@ const STATUS_COLORS = {
   "مرفوض — قيد التعديل":"#ff9f1a",
   "draft":"#6c63e8",
   "محفوظ":"#11a8bd",
-  "مُرسل للاعتماد":"#e84393",
-  "لم يبدأ التقييم":"#e85a62",
+  "مُرسل للاعتماد":"#f4c542",
+  "لم يبدأ التقييم":"#e53935",
   "بدون حالة":"#94a3b8"
 };
 const STATUS_LABELS = {
@@ -3966,8 +3998,8 @@ function updateActiveCardUI(){
 }
 function refresh(){
   const base=baseFiltered();
-  updateMetrics(base);
   const shown=cardFiltered(base);
+  updateMetrics(shown);
   $("resultsCount").textContent=`${shown.length.toLocaleString("ar")} نتيجة`;
   renderTable(shown);
   updateWorkflowSummary(shown);
@@ -3978,34 +4010,137 @@ function resetAll(){
   $("cityFilter").value="";
   $("supervisorFilter").value="";
   $("scopeFilter").value="";
-  updateContractors();
+  updateContractors(false);
   $("contractorFilter").value="";
   $("cleanWorkflowFilter").value="";
   $("maintWorkflowFilter").value="";
   activeCard="all";
   refresh();
 }
+
 document.querySelectorAll(".kpi").forEach(k=>{
   k.addEventListener("click",()=>{
     activeCard=activeCard===k.dataset.card?"all":k.dataset.card;
     refresh();
   });
 });
-["search","cityFilter","supervisorFilter","contractorFilter","cleanWorkflowFilter","maintWorkflowFilter"].forEach(id=>{
-  $(id).addEventListener(id==="search"?"input":"change",refresh);
+
+$("search").addEventListener("input",refresh);
+$("cityFilter").addEventListener("change",refresh);
+$("supervisorFilter").addEventListener("change",refresh);
+$("contractorFilter").addEventListener("change",refresh);
+$("cleanWorkflowFilter").addEventListener("change",refresh);
+$("maintWorkflowFilter").addEventListener("change",refresh);
+$("scopeFilter").addEventListener("change",()=>{
+  updateContractors(false);
+  refresh();
 });
-$("scopeFilter").addEventListener("change",()=>{updateContractors();refresh();});
 $("clearFilters").addEventListener("click",resetAll);
 
-function loadEmbedded(){
-  try{allData=JSON.parse($("embeddedData").textContent||"[]");}catch(e){allData=[];}
-  populateBaseFilters();
-  resetAll();
+
+function exportCurrentTable(){
+  const rows=cardFiltered(baseFiltered());
+  if(!rows.length){
+    alert("لا توجد نتائج حالية لتصديرها.");
+    return;
+  }
+
+  const exportRows=rows.map(r=>{
+    const c=classify(r);
+    const evaluation=c==="complete"?"مكتمل كلياً":c==="notstarted"?"لم يبدأ":"مكتمل جزئياً";
+    return {
+      "الرقم الوزاري": clean(r.ministryNo),
+      "اسم المدرسة": clean(r.school),
+      "المدينة": clean(r.city),
+      "المشرف/ة": clean(r.supervisor),
+      "حالة سير العمل - النظافة": clean(r.cleanWorkflow) || "-",
+      "حالة سير العمل - الصيانة": clean(r.maintAcWorkflow) || "-",
+      "حالة التقييم": evaluation,
+      "نسبة الجاهزية": fmtPct(readinessPct(r)),
+      "الجاهزية التشغيلية": isReady(r) ? "جاهز" : "غير جاهز",
+      "رابط الموقع": clean(r.siteLink)
+    };
+  });
+
+  const ws=XLSX.utils.json_to_sheet(exportRows);
+  ws["!rtl"]=true;
+  ws["!cols"]=[
+    {wch:14},{wch:36},{wch:14},{wch:22},{wch:25},
+    {wch:25},{wch:18},{wch:16},{wch:18},{wch:42}
+  ];
+
+  const wb=XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb,ws,"النتائج المفلترة");
+
+  const now=new Date();
+  const stamp=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,"0")}-${String(now.getDate()).padStart(2,"0")}`;
+  XLSX.writeFile(wb,`تقرير_المدارس_المفلتر_${stamp}.xlsx`);
+}
+$("exportTableBtn").addEventListener("click",exportCurrentTable);
+
+const GITHUB_OWNER="khaledsamirbusiness-source";
+const GITHUB_REPO="Osool_NB_Dashboard";
+const GITHUB_BRANCH="main";
+const GITHUB_DATA_PATH="data.json";
+const TOKEN_STORAGE_KEY="osool_nb_github_token";
+
+function setUpdateStatus(message,state="ok"){
+  $("fileStatus").textContent=message;
+  const dot=document.querySelector('.status-left .dot');
+  if(dot){dot.classList.remove('updating','error'); if(state==="updating")dot.classList.add('updating'); if(state==="error")dot.classList.add('error');}
+}
+function getGithubToken(){return localStorage.getItem(TOKEN_STORAGE_KEY)||"";}
+function requestGithubToken(){
+  const token=prompt("أدخل GitHub Fine-grained Token للتحديث الأونلاين.\nسيتم حفظه على هذا الجهاز فقط ولن يتم وضعه داخل ملف الموقع.");
+  if(token&&token.trim()){localStorage.setItem(TOKEN_STORAGE_KEY,token.trim());return token.trim();}
+  return "";
+}
+function utf8ToBase64(str){
+  const bytes=new TextEncoder().encode(str); let binary=""; const chunk=0x8000;
+  for(let i=0;i<bytes.length;i+=chunk) binary+=String.fromCharCode(...bytes.subarray(i,i+chunk));
+  return btoa(binary);
+}
+async function githubFetch(url,options={},retry=true){
+  let token=getGithubToken()||requestGithubToken();
+  if(!token) throw new Error("لم يتم إدخال GitHub Token.");
+  const headers=Object.assign({"Accept":"application/vnd.github+json","Authorization":`Bearer ${token}`,"X-GitHub-Api-Version":"2022-11-28"},options.headers||{});
+  let res=await fetch(url,Object.assign({},options,{headers}));
+  if((res.status===401||res.status===403)&&retry){
+    localStorage.removeItem(TOKEN_STORAGE_KEY);
+    token=requestGithubToken();
+    if(!token) return res;
+    return githubFetch(url,options,false);
+  }
+  return res;
+}
+async function publishDataToGithub(data){
+  const api=`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_DATA_PATH}`;
+  let sha=null;
+  const getRes=await githubFetch(`${api}?ref=${encodeURIComponent(GITHUB_BRANCH)}`);
+  if(getRes.ok){const current=await getRes.json();sha=current.sha||null;}
+  else if(getRes.status!==404){throw new Error(`تعذر قراءة ملف البيانات من GitHub (${getRes.status})`);}
+  const body={message:`Update dashboard data ${new Date().toISOString()}`,content:utf8ToBase64(JSON.stringify(data,null,2)),branch:GITHUB_BRANCH};
+  if(sha) body.sha=sha;
+  const putRes=await githubFetch(api,{method:"PUT",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+  if(!putRes.ok){const msg=await putRes.text();throw new Error(`تعذر رفع البيانات إلى GitHub (${putRes.status}): ${msg.slice(0,160)}`);}
+  return true;
+}
+async function loadEmbedded(){
+  let loaded=false;
+  try{
+    const res=await fetch(`./data.json?t=${Date.now()}`,{cache:"no-store"});
+    if(res.ok){const online=await res.json();if(Array.isArray(online)&&online.length){allData=online;loaded=true;setUpdateStatus(`تم تحميل آخر بيانات منشورة — ${allData.length.toLocaleString("ar")} مدرسة`);}}
+  }catch(err){console.warn("data.json غير متاح بعد",err);}
+  if(!loaded){
+    try{allData=JSON.parse($("embeddedData").textContent||"[]");}catch(e){allData=[];}
+    setUpdateStatus(allData.length?`تم تحميل البيانات الحالية — ${allData.length.toLocaleString("ar")} مدرسة`:"لا توجد بيانات منشورة حتى الآن.");
+  }
+  populateBaseFilters(); resetAll();
 }
 
 $("excelFile").addEventListener("change",async e=>{
-  const f=e.target.files[0];if(!f)return;
-  $("fileStatus").textContent="جارٍ قراءة ملف Excel...";
+  const f=e.target.files[0]; if(!f)return;
+  setUpdateStatus("جارٍ قراءة ملف Excel...","updating");
   try{
     const buf=await f.arrayBuffer();
     const book=XLSX.read(buf,{type:"array"});
@@ -4013,42 +4148,17 @@ $("excelFile").addEventListener("change",async e=>{
     const rows=XLSX.utils.sheet_to_json(sheet,{header:1,defval:"",raw:true});
     const d=[];
     for(let i=2;i<rows.length;i++){
-      const r=rows[i];
-      if(!r||clean(r[1])==="")continue;
-      d.push({
-        seq:r[0],ministryNo:clean(r[1]),gender:clean(r[2]),city:clean(r[3]),school:clean(r[4]),
-        supervisor:clean(r[5]),cleaningContractor:clean(r[6]),maintenanceContractor:clean(r[7]),acContractor:clean(r[8]),
-        cleanYes:num(r[9]),cleanNo:num(r[10]),cleanNA:num(r[11]),cleanBlank:num(r[12]),
-        maintYes:num(r[13]),maintNo:num(r[14]),maintNA:num(r[15]),maintBlank:num(r[16]),
-        acYes:num(r[17]),acNo:num(r[18]),acNA:num(r[19]),acBlank:num(r[20]),
-        cleanWorkflow:clean(r[21]),maintAcWorkflow:clean(r[22]),
-        siteLink:clean(r[23])
-      });
+      const r=rows[i]; if(!r||clean(r[1])==="")continue;
+      d.push({seq:r[0],ministryNo:clean(r[1]),gender:clean(r[2]),city:clean(r[3]),school:clean(r[4]),supervisor:clean(r[5]),cleaningContractor:clean(r[6]),maintenanceContractor:clean(r[7]),acContractor:clean(r[8]),cleanYes:num(r[9]),cleanNo:num(r[10]),cleanNA:num(r[11]),cleanBlank:num(r[12]),maintYes:num(r[13]),maintNo:num(r[14]),maintNA:num(r[15]),maintBlank:num(r[16]),acYes:num(r[17]),acNo:num(r[18]),acNA:num(r[19]),acBlank:num(r[20]),cleanWorkflow:clean(r[21]),maintAcWorkflow:clean(r[22]),siteLink:clean(r[23])});
     }
-    allData=d;
-    populateBaseFilters();
-    resetAll();
-    $("fileStatus").textContent=`تم استيراد ${f.name} — ${allData.length.toLocaleString("ar")} مدرسة`;
+    allData=d; populateBaseFilters(); resetAll();
+    setUpdateStatus(`تم استيراد ${f.name} — جارٍ التحديث أونلاين...`,"updating");
+    await publishDataToGithub(allData);
+    setUpdateStatus(`تم التحديث أونلاين بنجاح — ${allData.length.toLocaleString("ar")} مدرسة`);
   }catch(err){
-    console.error(err);
-    $("fileStatus").textContent="تعذر قراءة الملف. تأكد أن ملف التجميع بنفس الهيكل الحالي.";
-  }
-});
-
-$("saveBtn").addEventListener("click",()=>{
-  if(!allData.length){alert("لا توجد بيانات للحفظ.");return;}
-  const clone=document.documentElement.cloneNode(true);
-  clone.querySelector("#embeddedData").textContent=JSON.stringify(allData).replace(/</g,"\u003c");
-  const st=clone.querySelector("#fileStatus");
-  if(st)st.textContent=`البيانات محفوظة داخل الصفحة — ${allData.length} مدرسة`;
-  const blob=new Blob(["<!DOCTYPE html>\\n"+clone.outerHTML],{type:"text/html;charset=utf-8"});
-  const url=URL.createObjectURL(blob);
-  const a=document.createElement("a");
-  const d=new Date();
-  const ds=`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
-  a.href=url;a.download=`متابعة_خطة_الاستعداد_الحدود_الشمالية_${ds}.html`;
-  document.body.appendChild(a);a.click();a.remove();
-  setTimeout(()=>URL.revokeObjectURL(url),1000);
+    console.error(err); setUpdateStatus(`تعذر التحديث الأونلاين: ${err.message}`,"error");
+    alert("تمت قراءة الملف محلياً، لكن تعذر حفظ التحديث على GitHub.\n\n"+err.message);
+  }finally{e.target.value="";}
 });
 
 loadEmbedded();
