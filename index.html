@@ -270,6 +270,12 @@
 }
 </style>
 
+
+<style>
+.readiness-good{color:#148653!important;font-weight:900}
+.readiness-low{color:#d9363e!important;font-weight:900}
+</style>
+
 </head>
 <body>
 
@@ -4305,7 +4311,7 @@ function renderTable(data){
       <td><span class="badge ${clean(r.cleanWorkflow)==="معتمد"?"b-ready":"b-wait"}">${esc(r.cleanWorkflow||"-")}</span></td>
       <td><span class="badge ${clean(r.maintAcWorkflow)==="معتمد"?"b-ready":"b-wait"}">${esc(r.maintAcWorkflow||"-")}</span></td>
       <td><span class="badge ${cls}">${label}</span></td>
-      <td class="readiness">${fmtPct(readinessPct(r))}</td>
+      <td class="readiness ${readinessPct(r)>=75?'readiness-good':'readiness-low'}">${fmtPct(readinessPct(r))}</td>
       <td><span class="badge ${ready?"b-ready":"b-wait"}">${ready?"جاهز":"غير جاهز"}</span></td>
       <td>${siteLink(r.siteLink)}</td>
       <td><div class="report-links">${reportLink(r.cleanReport,"نظافة","clean")}${reportLink(r.maintReport,"صيانة","maint")}</div></td>
