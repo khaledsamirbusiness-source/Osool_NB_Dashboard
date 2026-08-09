@@ -4444,19 +4444,20 @@ function updateContractors(preserve=true){
   allData.forEach(r=>activeScopes.forEach(scope=>vals.push(contractorForScope(r,scope))));
   setMultiOptions("contractorFilter",vals,preserve);
 }
-function matchesContractor(r){
-  const contractors=new Set(multiSelected("contractorFilter"));
-  if(!contractors.size) return true;
-  const scopes=selectedScopeKeys();
-  const activeScopes=scopes.length?scopes:["clean","maint","ac"];
-  return activeScopes.some(scope=>contractors.has(contractorForScope(r,scope)));
+function activeFilterScopes(){
+  const selected=selectedScopeKeys();
+  return selected.length?selected:["clean","maint","ac"];
 }
-function matchesWorkflow(r){
+function matchingScopesForRow(r){
+  const contractors=new Set(multiSelected("contractorFilter"));
   const states=new Set(multiSelected("workflowFilter"));
-  if(!states.size) return true;
-  const scopes=selectedScopeKeys();
-  const activeScopes=scopes.length?scopes:["clean","maint","ac"];
-  return activeScopes.some(scope=>states.has(workflowForScope(r,scope)));
+  const scopes=activeFilterScopes();
+
+  return scopes.filter(scope=>{
+    const contractorOk=!contractors.size || contractors.has(contractorForScope(r,scope));
+    const workflowOk=!states.size || states.has(workflowForScope(r,scope));
+    return contractorOk && workflowOk;
+  });
 }
 function baseFiltered(){
   const q=clean($("search").value).toLowerCase();
@@ -4467,8 +4468,7 @@ function baseFiltered(){
     (!q || clean(r.ministryNo).toLowerCase().includes(q) || clean(r.school).toLowerCase().includes(q)) &&
     (!cities.size || cities.has(clean(r.city))) &&
     (!supervisors.size || supervisors.has(clean(r.supervisor))) &&
-    matchesContractor(r) &&
-    matchesWorkflow(r)
+    matchingScopesForRow(r).length>0
   );
 }
 function cardFiltered(data){
@@ -4538,16 +4538,40 @@ function renderStatusBar(values,barId,legendId,totalId,totalSuffix){
   $(totalId).textContent=`${total.toLocaleString("ar")} ${totalSuffix}`;
 }
 function updateWorkflowSummary(data){
+  const selectedScopes=selectedScopeKeys();
+  const defaultMode=!selectedScopes.length;
+  const allowedScopes=defaultMode?["clean","maint"]:selectedScopes;
+
+  const combined=[];
+  const cleanValues=[];
+  const maintValues=[];
+
+  data.forEach(r=>{
+    const matched=new Set(matchingScopesForRow(r));
+
+    if(allowedScopes.includes("clean") && matched.has("clean")){
+      combined.push(r.cleanWorkflow);
+      cleanValues.push(r.cleanWorkflow);
+    }
+    if(allowedScopes.includes("maint") && matched.has("maint")){
+      combined.push(r.maintAcWorkflow);
+      maintValues.push(r.maintAcWorkflow);
+    }
+    if(allowedScopes.includes("ac") && matched.has("ac")){
+      combined.push(r.acWorkflow || r.maintAcWorkflow);
+    }
+  });
+
   renderStatusBar(
-    [...data.map(r=>r.cleanWorkflow),...data.map(r=>r.maintAcWorkflow)],
+    combined,
     "workflowCombinedBar","workflowCombinedLegend","workflowCombinedTotal","حالة"
   );
   renderStatusBar(
-    data.map(r=>r.cleanWorkflow),
+    cleanValues,
     "workflowCleanBar","workflowCleanLegend","workflowCleanTotal","مدرسة"
   );
   renderStatusBar(
-    data.map(r=>r.maintAcWorkflow),
+    maintValues,
     "workflowMaintBar","workflowMaintLegend","workflowMaintTotal","مدرسة"
   );
 }
@@ -4615,8 +4639,21 @@ function buildSupervisorSummary(data){
 
     const s=supervisors.get(name);
 
-    // كل مدرسة لها تقرير نظافة + تقرير صيانة = تقريرين مخططين.
-    [clean(r.cleanWorkflow),clean(r.maintAcWorkflow)].forEach(state=>{
+    // نعد فقط النطاقات التي تحقق الفلاتر الحالية.
+    // بدون فلتر نطاق نحافظ على الوضع القديم: النظافة + الصيانة.
+    const selectedScopes=selectedScopeKeys();
+    const scopesToCount=selectedScopes.length?selectedScopes:["clean","maint"];
+    const matched=new Set(matchingScopesForRow(r));
+
+    scopesToCount.forEach(scope=>{
+      if(!matched.has(scope)) return;
+
+      const state=scope==="clean"
+        ? clean(r.cleanWorkflow)
+        : scope==="maint"
+          ? clean(r.maintAcWorkflow)
+          : clean(r.acWorkflow || r.maintAcWorkflow);
+
       s.planned++;
 
       if(state==="معتمد") s.approved++;
@@ -4628,6 +4665,7 @@ function buildSupervisorSummary(data){
   });
 
   return [...supervisors.values()]
+    .filter(s=>s.planned>0)
     .map(s=>({
       ...s,
       rate:s.planned ? (s.approved/s.planned*100) : 0
