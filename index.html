@@ -276,6 +276,138 @@
 .readiness-low{color:#d9363e!important;font-weight:900}
 </style>
 
+
+<style>
+/* ===== Checkbox multi-select filters فقط ===== */
+.filters-checkbox{
+  grid-template-columns:2fr repeat(5,minmax(130px,1fr));
+  align-items:start;
+}
+.multi-filter{
+  position:relative;
+  min-width:0;
+  font-size:11px;
+}
+.multi-trigger{
+  width:100%;
+  min-height:38px;
+  border:1px solid #dae5f0;
+  border-radius:11px;
+  background:#fbfdff;
+  color:#18344f;
+  font-family:inherit;
+  padding:8px 10px;
+  cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+  text-align:right;
+  transition:.16s ease;
+}
+.multi-trigger:hover{border-color:#b9cee4;background:#fff}
+.multi-filter.open .multi-trigger{
+  border-color:#7ea9ff;
+  box-shadow:0 0 0 3px rgba(47,116,255,.08);
+}
+.multi-label{
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  font-weight:700;
+}
+.multi-arrow{
+  color:#547491;
+  font-size:14px;
+  transition:.16s ease;
+  flex:0 0 auto;
+}
+.multi-filter.open .multi-arrow{transform:rotate(180deg)}
+.multi-menu{
+  display:none;
+  position:absolute;
+  top:calc(100% + 6px);
+  right:0;
+  width:max(100%,230px);
+  max-width:290px;
+  z-index:50;
+  background:#fff;
+  border:1px solid #dce7f2;
+  border-radius:13px;
+  box-shadow:0 18px 42px rgba(27,67,108,.17);
+  overflow:hidden;
+}
+.multi-filter.open .multi-menu{display:block}
+.multi-actions{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:6px;
+  padding:8px;
+  background:#f7faff;
+  border-bottom:1px solid #e7eef6;
+}
+.multi-action{
+  display:flex;
+  align-items:center;
+  gap:6px;
+  padding:7px 8px;
+  border-radius:8px;
+  cursor:pointer;
+  color:#365b7e;
+  font-size:9.7px;
+  font-weight:800;
+  user-select:none;
+}
+.multi-action:hover{background:#eaf3ff}
+.multi-action.clear{color:#a0474d}
+.multi-action input{width:14px!important;height:14px;margin:0;accent-color:#2f74ff}
+.multi-options{
+  max-height:245px;
+  overflow-y:auto;
+  padding:6px;
+  scrollbar-width:thin;
+}
+.multi-option{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  padding:8px 9px;
+  border-radius:8px;
+  cursor:pointer;
+  color:#26445f;
+  user-select:none;
+  transition:.12s ease;
+}
+.multi-option:hover{background:#f1f7fd}
+.multi-option.selected{background:#eaf4ff;color:#145b9d;font-weight:800}
+.multi-option input{
+  width:15px!important;
+  height:15px;
+  margin:0;
+  accent-color:#2f74ff;
+  flex:0 0 auto;
+}
+.multi-empty{
+  padding:12px;
+  text-align:center;
+  color:#8b9aaa;
+  font-size:10px;
+}
+@media(max-width:1260px){
+  .filters-checkbox{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .filters-checkbox>input{grid-column:span 3!important}
+}
+@media(max-width:980px){
+  .filters-checkbox{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .filters-checkbox>input{grid-column:1/-1!important}
+}
+@media(max-width:620px){
+  .filters-checkbox{grid-template-columns:1fr}
+  .filters-checkbox>input{grid-column:auto!important}
+  .multi-menu{width:100%;max-width:none}
+}
+</style>
+
 </head>
 <body>
 
@@ -398,19 +530,33 @@
     <h2 class="section-title">البحث والفلترة</h2>
     <span class="result-chip" id="resultsCount">323 نتيجة</span>
   </div>
-  <div class="filters">
+  <div class="filters filters-checkbox">
     <input id="search" type="text" placeholder="ابحث بالرقم الوزاري أو اسم المدرسة...">
-    <select id="cityFilter"><option value="">كل المدن</option></select>
-    <select id="supervisorFilter"><option value="">كل المشرفين</option></select>
-    <select id="scopeFilter">
-      <option value="">كل النطاقات</option>
-      <option value="clean">نظافة</option>
-      <option value="maint">صيانة</option>
-      <option value="ac">تكييف</option>
-    </select>
-    <select id="contractorFilter"><option value="">كل المقاولين</option></select>
-    <select id="cleanWorkflowFilter"><option value="">كل حالات النظافة</option></select>
-    <select id="maintWorkflowFilter"><option value="">كل حالات الصيانة</option></select>
+
+    <div class="multi-filter" id="cityFilter" data-label="كل المدن">
+      <button type="button" class="multi-trigger"><span class="multi-label">كل المدن</span><span class="multi-arrow">⌄</span></button>
+      <div class="multi-menu"><div class="multi-actions"></div><div class="multi-options"></div></div>
+    </div>
+
+    <div class="multi-filter" id="supervisorFilter" data-label="كل المشرفين">
+      <button type="button" class="multi-trigger"><span class="multi-label">كل المشرفين</span><span class="multi-arrow">⌄</span></button>
+      <div class="multi-menu"><div class="multi-actions"></div><div class="multi-options"></div></div>
+    </div>
+
+    <div class="multi-filter" id="scopeFilter" data-label="كل النطاقات">
+      <button type="button" class="multi-trigger"><span class="multi-label">كل النطاقات</span><span class="multi-arrow">⌄</span></button>
+      <div class="multi-menu"><div class="multi-actions"></div><div class="multi-options"></div></div>
+    </div>
+
+    <div class="multi-filter" id="contractorFilter" data-label="كل المقاولين">
+      <button type="button" class="multi-trigger"><span class="multi-label">كل المقاولين</span><span class="multi-arrow">⌄</span></button>
+      <div class="multi-menu"><div class="multi-actions"></div><div class="multi-options"></div></div>
+    </div>
+
+    <div class="multi-filter" id="workflowFilter" data-label="كل حالات سير العمل">
+      <button type="button" class="multi-trigger"><span class="multi-label">كل حالات سير العمل</span><span class="multi-arrow">⌄</span></button>
+      <div class="multi-menu"><div class="multi-actions"></div><div class="multi-options"></div></div>
+    </div>
   </div>
   <button id="clearFilters" class="clear-btn">↺ مسح كل الفلاتر</button>
 </section>
@@ -4148,63 +4294,181 @@ function safeUrl(u){
 function unique(arr){
   return [...new Set(arr.filter(Boolean))].sort((a,b)=>a.localeCompare(b,"ar"));
 }
-function fillSelect(el,vals,label,keep=true){
-  const old=keep?el.value:"";
-  el.innerHTML=`<option value="">${label}</option>`;
-  vals.forEach(v=>{
-    const o=document.createElement("option");
-    o.value=v;o.textContent=v;el.appendChild(o);
+
+const multiFilterState = {
+  cityFilter:new Set(),
+  supervisorFilter:new Set(),
+  scopeFilter:new Set(),
+  contractorFilter:new Set(),
+  workflowFilter:new Set()
+};
+const multiFilterOptions = {
+  cityFilter:[],
+  supervisorFilter:[],
+  scopeFilter:[],
+  contractorFilter:[],
+  workflowFilter:[]
+};
+
+function multiSelected(id){
+  return [...(multiFilterState[id]||new Set())];
+}
+function hasMultiValue(id,value){
+  return (multiFilterState[id]||new Set()).has(clean(value));
+}
+function updateMultiLabel(id){
+  const el=$(id);
+  if(!el) return;
+  const label=el.dataset.label||"الكل";
+  const selected=multiSelected(id);
+  const span=el.querySelector(".multi-label");
+  if(!selected.length) span.textContent=label;
+  else if(selected.length===1) span.textContent=selected[0];
+  else span.textContent=`${selected.length} اختيارات`;
+  span.title=selected.length?selected.join("، "):label;
+}
+function renderMultiFilter(id){
+  const el=$(id);
+  if(!el) return;
+  const opts=multiFilterOptions[id]||[];
+  const state=multiFilterState[id]||new Set();
+  const actions=el.querySelector(".multi-actions");
+  const box=el.querySelector(".multi-options");
+
+  const allSelected = opts.length && state.size===opts.length;
+  actions.innerHTML=`
+    <label class="multi-action ${allSelected?"clear":""}">
+      <input type="checkbox" class="multi-toggle-all" ${allSelected?"checked":""}>
+      <span>${allSelected?"مسح الكل":"اختيار الكل"}</span>
+    </label>`;
+
+  if(!opts.length){
+    box.innerHTML=`<div class="multi-empty">لا توجد اختيارات</div>`;
+  }else{
+    box.innerHTML=opts.map(v=>`
+      <label class="multi-option ${state.has(v)?"selected":""}">
+        <input type="checkbox" value="${esc(v)}" ${state.has(v)?"checked":""}>
+        <span>${esc(v)}</span>
+      </label>`).join("");
+  }
+  updateMultiLabel(id);
+}
+function setMultiOptions(id,vals,preserve=true){
+  const uniqueVals=unique(vals.map(clean));
+  const old=preserve?new Set(multiSelected(id)):new Set();
+  multiFilterOptions[id]=uniqueVals;
+  multiFilterState[id]=new Set(uniqueVals.filter(v=>old.has(v)));
+  renderMultiFilter(id);
+}
+function clearMultiFilter(id,notify=false){
+  multiFilterState[id]=new Set();
+  renderMultiFilter(id);
+  if(notify) $(id).dispatchEvent(new CustomEvent("multifilterchange",{bubbles:true}));
+}
+function setMultiSelection(id,values,notify=false){
+  const allowed=new Set(multiFilterOptions[id]||[]);
+  multiFilterState[id]=new Set((values||[]).map(clean).filter(v=>allowed.has(v)));
+  renderMultiFilter(id);
+  if(notify) $(id).dispatchEvent(new CustomEvent("multifilterchange",{bubbles:true}));
+}
+function initMultiFilterEvents(){
+  document.querySelectorAll(".multi-filter").forEach(el=>{
+    const id=el.id;
+    el.querySelector(".multi-trigger").addEventListener("click",e=>{
+      e.stopPropagation();
+      document.querySelectorAll(".multi-filter.open").forEach(x=>{if(x!==el)x.classList.remove("open")});
+      el.classList.toggle("open");
+    });
+
+    el.addEventListener("change",e=>{
+      if(e.target.classList.contains("multi-toggle-all")){
+        e.preventDefault();
+        const opts=multiFilterOptions[id]||[];
+        const state=multiFilterState[id]||new Set();
+        const allSelected=opts.length && state.size===opts.length;
+        multiFilterState[id]=allSelected ? new Set() : new Set(opts);
+        renderMultiFilter(id);
+        el.dispatchEvent(new CustomEvent("multifilterchange",{bubbles:true}));
+        return;
+      }
+      if(e.target.matches(".multi-option input")){
+        const val=clean(e.target.value);
+        if(e.target.checked) multiFilterState[id].add(val);
+        else multiFilterState[id].delete(val);
+        renderMultiFilter(id);
+        el.dispatchEvent(new CustomEvent("multifilterchange",{bubbles:true}));
+      }
+    });
   });
-  if(vals.includes(old)) el.value=old;
+
+  document.addEventListener("click",e=>{
+    if(!e.target.closest(".multi-filter")){
+      document.querySelectorAll(".multi-filter.open").forEach(x=>x.classList.remove("open"));
+    }
+  });
+}
+
+function workflowForScope(r,scope){
+  if(scope==="clean") return clean(r.cleanWorkflow);
+  if(scope==="maint") return clean(r.maintAcWorkflow);
+  if(scope==="ac") return clean(r.acWorkflow || r.maintAcWorkflow);
+  return "";
+}
+function contractorForScope(r,scope){
+  if(scope==="clean") return clean(r.cleaningContractor);
+  if(scope==="maint") return clean(r.maintenanceContractor);
+  if(scope==="ac") return clean(r.acContractor);
+  return "";
 }
 function populateBaseFilters(){
-  fillSelect($("cityFilter"),unique(allData.map(r=>clean(r.city))),"كل المدن",false);
-  fillSelect($("supervisorFilter"),unique(allData.map(r=>clean(r.supervisor))),"كل المشرفين",false);
-  fillSelect($("cleanWorkflowFilter"),unique(allData.map(r=>clean(r.cleanWorkflow))),"كل حالات النظافة",false);
-  fillSelect($("maintWorkflowFilter"),unique(allData.map(r=>clean(r.maintAcWorkflow))),"كل حالات الصيانة",false);
-  $("scopeFilter").value="";
+  setMultiOptions("cityFilter",allData.map(r=>clean(r.city)),false);
+  setMultiOptions("supervisorFilter",allData.map(r=>clean(r.supervisor)),false);
+  setMultiOptions("scopeFilter",["نظافة","صيانة","تكييف"],false);
+
+  const workflows=[];
+  allData.forEach(r=>{
+    workflows.push(clean(r.cleanWorkflow),clean(r.maintAcWorkflow),clean(r.acWorkflow||r.maintAcWorkflow));
+  });
+  setMultiOptions("workflowFilter",workflows,false);
   updateContractors(false);
 }
-function updateContractors(preserve=true){
-  const scope=$("scopeFilter").value;
-  let vals=[];
-  if(scope==="clean") vals=allData.map(r=>clean(r.cleaningContractor));
-  else if(scope==="maint") vals=allData.map(r=>clean(r.maintenanceContractor));
-  else if(scope==="ac") vals=allData.map(r=>clean(r.acContractor));
-  else vals=[
-    ...allData.map(r=>clean(r.cleaningContractor)),
-    ...allData.map(r=>clean(r.maintenanceContractor)),
-    ...allData.map(r=>clean(r.acContractor))
-  ];
-  fillSelect($("contractorFilter"),unique(vals),"كل المقاولين",preserve);
+function selectedScopeKeys(){
+  const labels=multiSelected("scopeFilter");
+  const map={"نظافة":"clean","صيانة":"maint","تكييف":"ac"};
+  return labels.map(v=>map[v]).filter(Boolean);
 }
-function matchesContractor(r,contractor,scope){
-  if(!contractor) return true;
-  if(scope==="clean") return clean(r.cleaningContractor)===contractor;
-  if(scope==="maint") return clean(r.maintenanceContractor)===contractor;
-  if(scope==="ac") return clean(r.acContractor)===contractor;
-  return [
-    clean(r.cleaningContractor),
-    clean(r.maintenanceContractor),
-    clean(r.acContractor)
-  ].includes(contractor);
+function updateContractors(preserve=true){
+  const scopes=selectedScopeKeys();
+  const activeScopes=scopes.length?scopes:["clean","maint","ac"];
+  const vals=[];
+  allData.forEach(r=>activeScopes.forEach(scope=>vals.push(contractorForScope(r,scope))));
+  setMultiOptions("contractorFilter",vals,preserve);
+}
+function matchesContractor(r){
+  const contractors=new Set(multiSelected("contractorFilter"));
+  if(!contractors.size) return true;
+  const scopes=selectedScopeKeys();
+  const activeScopes=scopes.length?scopes:["clean","maint","ac"];
+  return activeScopes.some(scope=>contractors.has(contractorForScope(r,scope)));
+}
+function matchesWorkflow(r){
+  const states=new Set(multiSelected("workflowFilter"));
+  if(!states.size) return true;
+  const scopes=selectedScopeKeys();
+  const activeScopes=scopes.length?scopes:["clean","maint","ac"];
+  return activeScopes.some(scope=>states.has(workflowForScope(r,scope)));
 }
 function baseFiltered(){
   const q=clean($("search").value).toLowerCase();
-  const city=$("cityFilter").value;
-  const supervisor=$("supervisorFilter").value;
-  const scope=$("scopeFilter").value;
-  const contractor=$("contractorFilter").value;
-  const cleanState=$("cleanWorkflowFilter").value;
-  const maintState=$("maintWorkflowFilter").value;
+  const cities=new Set(multiSelected("cityFilter"));
+  const supervisors=new Set(multiSelected("supervisorFilter"));
 
   return allData.filter(r=>
     (!q || clean(r.ministryNo).toLowerCase().includes(q) || clean(r.school).toLowerCase().includes(q)) &&
-    (!city || clean(r.city)===city) &&
-    (!supervisor || clean(r.supervisor)===supervisor) &&
-    matchesContractor(r,contractor,scope) &&
-    (!cleanState || clean(r.cleanWorkflow)===cleanState) &&
-    (!maintState || clean(r.maintAcWorkflow)===maintState)
+    (!cities.size || cities.has(clean(r.city))) &&
+    (!supervisors.size || supervisors.has(clean(r.supervisor))) &&
+    matchesContractor(r) &&
+    matchesWorkflow(r)
   );
 }
 function cardFiltered(data){
@@ -4395,8 +4659,8 @@ function renderSupervisorTable(data){
       rowClass="supervisor-top3";
     }
 
-    const selectedSupervisor = $("supervisorFilter").value;
-    const selectedClass = selectedSupervisor===s.name ? " supervisor-selected" : "";
+    const selectedSupervisors = multiSelected("supervisorFilter");
+    const selectedClass = selectedSupervisors.includes(s.name) ? " supervisor-selected" : "";
     return `<tr class="${rowClass}${selectedClass}" data-supervisor="${esc(s.name)}" title="اضغط لفلترة الصفحة على هذا المشرف">
       <td>${rankHtml}</td>
       <td class="supervisor-name">${esc(s.name)}</td>
@@ -4413,14 +4677,11 @@ function renderSupervisorTable(data){
 
 
 function applySupervisorFromTable(name){
-  const filter=$("supervisorFilter");
-  if(!filter) return;
-
-  // Clicking the selected supervisor again clears only the supervisor filter.
-  if(filter.value===name){
-    filter.value="";
+  const selected=multiSelected("supervisorFilter");
+  if(selected.length===1 && selected[0]===name){
+    setMultiSelection("supervisorFilter",[]);
   }else{
-    filter.value=name;
+    setMultiSelection("supervisorFilter",[name]);
   }
   refresh();
 }
@@ -4449,13 +4710,8 @@ function refresh(){
 }
 function resetAll(){
   $("search").value="";
-  $("cityFilter").value="";
-  $("supervisorFilter").value="";
-  $("scopeFilter").value="";
+  ["cityFilter","supervisorFilter","scopeFilter","contractorFilter","workflowFilter"].forEach(id=>clearMultiFilter(id,false));
   updateContractors(false);
-  $("contractorFilter").value="";
-  $("cleanWorkflowFilter").value="";
-  $("maintWorkflowFilter").value="";
   activeCard="all";
   refresh();
 }
@@ -4468,13 +4724,12 @@ document.querySelectorAll(".kpi").forEach(k=>{
 });
 
 $("search").addEventListener("input",refresh);
-$("cityFilter").addEventListener("change",refresh);
-$("supervisorFilter").addEventListener("change",refresh);
-$("contractorFilter").addEventListener("change",refresh);
-$("cleanWorkflowFilter").addEventListener("change",refresh);
-$("maintWorkflowFilter").addEventListener("change",refresh);
-$("scopeFilter").addEventListener("change",()=>{
-  updateContractors(false);
+$("cityFilter").addEventListener("multifilterchange",refresh);
+$("supervisorFilter").addEventListener("multifilterchange",refresh);
+$("contractorFilter").addEventListener("multifilterchange",refresh);
+$("workflowFilter").addEventListener("multifilterchange",refresh);
+$("scopeFilter").addEventListener("multifilterchange",()=>{
+  updateContractors(true);
   refresh();
 });
 $("clearFilters").addEventListener("click",resetAll);
@@ -4600,11 +4855,74 @@ $("excelFile").addEventListener("change",async e=>{
     const book=XLSX.read(buf,{type:"array"});
     const sheet=book.Sheets[book.SheetNames[0]];
     const rows=XLSX.utils.sheet_to_json(sheet,{header:1,defval:"",raw:true});
-    const d=[];
+    const grouped=new Map();
     for(let i=2;i<rows.length;i++){
-      const r=rows[i]; if(!r||clean(r[1])==="")continue;
-      d.push({seq:r[0],ministryNo:clean(r[1]),gender:clean(r[2]),city:clean(r[3]),school:clean(r[4]),supervisor:clean(r[5]),cleaningContractor:clean(r[6]),maintenanceContractor:clean(r[7]),acContractor:clean(r[8]),cleanYes:num(r[9]),cleanNo:num(r[10]),cleanNA:num(r[11]),cleanBlank:num(r[12]),maintYes:num(r[13]),maintNo:num(r[14]),maintNA:num(r[15]),maintBlank:num(r[16]),acYes:num(r[17]),acNo:num(r[18]),acNA:num(r[19]),acBlank:num(r[20]),cleanWorkflow:clean(r[21]),maintAcWorkflow:clean(r[22]),siteLink:clean(r[23]),maintReport:clean(r[24]),cleanReport:clean(r[25])});
+      const r=rows[i];
+      const ministryNo=clean(r?.[1]);
+      if(!r||!ministryNo) continue;
+
+      if(!grouped.has(ministryNo)){
+        grouped.set(ministryNo,{
+          seq:0,
+          ministryNo,
+          gender:clean(r[2]),
+          city:clean(r[3]),
+          school:clean(r[4]),
+          supervisor:clean(r[5]),
+          cleaningContractor:"",
+          maintenanceContractor:"",
+          acContractor:"",
+          cleanYes:0,cleanNo:0,cleanNA:0,cleanBlank:8,
+          maintYes:0,maintNo:0,maintNA:0,maintBlank:30,
+          acYes:0,acNo:0,acNA:0,acBlank:5,
+          cleanWorkflow:"",
+          maintAcWorkflow:"",
+          acWorkflow:"",
+          siteLink:clean(r[13]),
+          maintReport:clean(r[14]),
+          cleanReport:clean(r[15])
+        });
+      }
+
+      const item=grouped.get(ministryNo);
+      const scope=clean(r[7]);
+      const contractor=clean(r[6]);
+      const yes=num(r[8]), no=num(r[9]), na=num(r[10]), blank=num(r[11]);
+      const workflow=clean(r[12]);
+
+      // Keep building-level fields if any row contains them.
+      if(!item.gender) item.gender=clean(r[2]);
+      if(!item.city) item.city=clean(r[3]);
+      if(!item.school) item.school=clean(r[4]);
+      if(!item.supervisor) item.supervisor=clean(r[5]);
+      if(!item.siteLink) item.siteLink=clean(r[13]);
+      if(!item.maintReport) item.maintReport=clean(r[14]);
+      if(!item.cleanReport) item.cleanReport=clean(r[15]);
+
+      if(scope==="النظافة"){
+        item.cleaningContractor=contractor;
+        item.cleanYes=yes; item.cleanNo=no; item.cleanNA=na; item.cleanBlank=blank;
+        item.cleanWorkflow=workflow;
+      }else if(scope==="الصيانة"){
+        item.maintenanceContractor=contractor;
+        item.maintYes=yes; item.maintNo=no; item.maintNA=na; item.maintBlank=blank;
+        item.maintAcWorkflow=workflow;
+      }else if(scope==="التكييف"){
+        item.acContractor=contractor;
+        item.acYes=yes; item.acNo=no; item.acNA=na; item.acBlank=blank;
+        item.acWorkflow=workflow;
+        // Compatibility with all existing calculations/table behavior.
+        if(!item.maintAcWorkflow) item.maintAcWorkflow=workflow;
+      }
     }
+
+    const d=[...grouped.values()].map((item,index)=>{
+      item.seq=index+1;
+      // Old files used one shared maintenance/AC workflow.
+      if(!item.acWorkflow) item.acWorkflow=item.maintAcWorkflow;
+      return item;
+    });
+
     allData=d; populateBaseFilters(); resetAll();
     setUpdateStatus(`تم استيراد ${f.name} — جارٍ التحديث أونلاين...`,"updating");
     await publishDataToGithub(allData);
@@ -4615,6 +4933,7 @@ $("excelFile").addEventListener("change",async e=>{
   }finally{e.target.value="";}
 });
 
+initMultiFilterEvents();
 loadEmbedded();
 </script>
 
