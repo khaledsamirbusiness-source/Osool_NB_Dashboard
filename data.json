@@ -23,6 +23,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/Zz7LNc423Py6onXW7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1810/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1810/report"
@@ -51,6 +52,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/p6vacAZ6sgmHSXa19",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/69/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/69/report"
@@ -79,6 +81,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/HU2WNLq7UuKXexPZ6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1318/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1318/report"
@@ -107,6 +110,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/ssyDwmp6D5nNuLUw8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1865/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1865/report"
@@ -135,6 +139,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/5BZJ5FhwUmTBR4jU9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/967/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/967/report"
@@ -163,6 +168,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/6Q6adAR8Lpkcbp7t7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1790/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1790/report"
@@ -191,6 +197,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/wXAeUaFunfuRPHG49",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1826/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1826/report"
@@ -219,6 +226,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/ES4Vw36a1rcbUoVr5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1870/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1870/report"
@@ -247,6 +255,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/wWpJSDpMamVYx11G7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1385/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1385/report"
@@ -275,6 +284,7 @@
     "acBlank": 1,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/3w2ukPmvH7nAKASU7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1927/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1927/report"
@@ -303,6 +313,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/L2NPT3njsN2Q9E4z8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1922/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1922/report"
@@ -331,6 +342,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/PfsjB9NRBkMWGky6A",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1384/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1384/report"
@@ -359,6 +371,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/rFBNcLLsu1hfAUBS6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1061/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1061/report"
@@ -387,6 +400,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مُرسل للاعتماد",
+    "acWorkflow": "مُرسل للاعتماد",
     "siteLink": "https://maps.app.goo.gl/EDvNoixBaWLaDBJb8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1818/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1818/report"
@@ -415,6 +429,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/ZGBf1zLqmQRBucz66",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/734/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/734/report"
@@ -443,6 +458,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/w8zaAJETPj5LoBzeA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/455/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/455/report"
@@ -471,6 +487,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/DKm7aNqiJL5wb1sZ7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/969/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/969/report"
@@ -499,6 +516,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/t7xKHHrVH3qVvp2i9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1971/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1971/report"
@@ -527,6 +545,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/sPUnDvHurbQkbmqY6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/614/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/614/report"
@@ -555,6 +574,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/1MHq6u778ubGchpk9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1873/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1873/report"
@@ -583,6 +603,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/atpq1UqUAaKLcnJd7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1871/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1871/report"
@@ -611,6 +632,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/BMJSF5xjTSB1WgFM8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1747/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1747/report"
@@ -639,6 +661,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/YE8bdWC8MyWApxQ28",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/389/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/389/report"
@@ -667,6 +690,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/XGtzTXQXpurHe32p9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/802/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/802/report"
@@ -695,6 +719,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/dmYSs5qZ5PhpKjb19",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/64/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/64/report"
@@ -723,6 +748,7 @@
     "acBlank": 0,
     "cleanWorkflow": "محفوظ",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/bW8KZxa7J9zSx3pKA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/397/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/397/report"
@@ -751,6 +777,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/F9p45BMcBXZiHhnm7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/24/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/24/report"
@@ -779,6 +806,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/Fs5oPwsZcTdKGQMV8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/139/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/139/report"
@@ -807,6 +835,7 @@
     "acBlank": 1,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/M4Z3aNsQ7QAKNkJZ9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1684/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1684/report"
@@ -835,6 +864,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/c7bna7VRLEY83aP48",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/775/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/775/report"
@@ -863,6 +893,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/R8iKVZqRMh3RSk4fA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1056/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1056/report"
@@ -891,6 +922,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/fEyPfPM1AhMvvKQy8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1380/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1380/report"
@@ -919,6 +951,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/6uERmBb7pd3t5JpL8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/413/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/413/report"
@@ -947,6 +980,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/UBA1AqtpmPQChYQY7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1752/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1752/report"
@@ -975,6 +1009,7 @@
     "acBlank": 0,
     "cleanWorkflow": "محفوظ",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/hFXh9zPR3Ebtg3Vv6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1806/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1806/report"
@@ -1003,6 +1038,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/ojg7RkZNetnks3237",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/854/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/854/report"
@@ -1031,6 +1067,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/njtk8VBCxRbczjRV9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/246/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/246/report"
@@ -1059,6 +1096,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/PgByTALA9cGft6ju6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1055/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1055/report"
@@ -1087,6 +1125,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مُرسل للاعتماد",
     "maintAcWorkflow": "مُرسل للاعتماد",
+    "acWorkflow": "مُرسل للاعتماد",
     "siteLink": "https://maps.app.goo.gl/CaEXNaeFkHw3YPFP7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1813/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1813/report"
@@ -1115,6 +1154,7 @@
     "acBlank": 4,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/sKtgfoQRYPKfbF1HA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1934/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1934/report"
@@ -1143,6 +1183,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/f3DyiyiEAV9F9zpZ6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1320/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1320/report"
@@ -1171,6 +1212,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/2HygvwXKU58qdthdA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1950/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1950/report"
@@ -1199,6 +1241,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/pHurdVCEzsG1qcPk6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1815/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1815/report"
@@ -1227,6 +1270,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/WFuBQ1qE7QZxRMh79",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/957/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/957/report"
@@ -1255,6 +1299,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/PtHoxhcumdGMVWqW8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1867/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1867/report"
@@ -1283,6 +1328,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "لم يبدأ التقييم",
+    "acWorkflow": "لم يبدأ التقييم",
     "siteLink": "https://maps.app.goo.gl/bmuV4veQKTt9WBCn8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/12/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/12/report"
@@ -1311,6 +1357,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/6CKU6yof9eYB8RQA9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/958/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/958/report"
@@ -1339,6 +1386,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/D7exr1AhPk4E57C68",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1690/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1690/report"
@@ -1367,6 +1415,7 @@
     "acBlank": 1,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/pphkEn31nAf9CfoT6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1403/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1403/report"
@@ -1395,6 +1444,7 @@
     "acBlank": 1,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/AbwfiT3a4uFReTkM7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1847/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1847/report"
@@ -1409,10 +1459,10 @@
     "cleaningContractor": "الهاجرى",
     "maintenanceContractor": "سمايا",
     "acContractor": "الهاجرى",
-    "cleanYes": 0,
+    "cleanYes": 6,
     "cleanNo": 0,
     "cleanNA": 0,
-    "cleanBlank": 8,
+    "cleanBlank": 2,
     "maintYes": 9,
     "maintNo": 0,
     "maintNA": 0,
@@ -1421,8 +1471,9 @@
     "acNo": 0,
     "acNA": 0,
     "acBlank": 1,
-    "cleanWorkflow": "لم يبدأ التقييم",
+    "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/yH5ThFWiKerkL1YQ8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1541/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1541/report"
@@ -1451,6 +1502,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/jxfHHVTw2uBEVk1W8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1243/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1243/report"
@@ -1479,6 +1531,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/ZzECtBa29nDSRJNX7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/441/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/441/report"
@@ -1507,6 +1560,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "لم يبدأ التقييم",
+    "acWorkflow": "لم يبدأ التقييم",
     "siteLink": "https://maps.app.goo.gl/5jzeXsg7KJNB9Xnw5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1931/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1931/report"
@@ -1535,6 +1589,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/mSq3RixLvTTMhZDT9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1972/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1972/report"
@@ -1563,6 +1618,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/ufb4hUZSYyqxc4VZA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/850/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/850/report"
@@ -1591,6 +1647,7 @@
     "acBlank": 0,
     "cleanWorkflow": "محفوظ",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/xvWs9FUe5XYcBuXF8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1862/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1862/report"
@@ -1619,6 +1676,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/tonGDspF2kHBTudn8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1866/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1866/report"
@@ -1647,6 +1705,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/w59CNZaRUjsjgvLo8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1777/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1777/report"
@@ -1675,6 +1734,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/LvRwtBmtzsc1jFEm8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/965/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/965/report"
@@ -1703,6 +1763,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/qHpB188jwTuTjfwe9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1840/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1840/report"
@@ -1731,6 +1792,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/NpWv2wojC1fXjeheA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/955/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/955/report"
@@ -1759,6 +1821,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/28r8Yr2RG14UJJgA8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/217/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/217/report"
@@ -1787,6 +1850,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/6suVNLd8DwQtj3nG8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1517/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1517/report"
@@ -1815,6 +1879,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/wLQ9C9bBYm4RSJaY9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/9/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/9/report"
@@ -1843,6 +1908,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/k8gUbLqqm8r51too7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1975/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1975/report"
@@ -1871,6 +1937,7 @@
     "acBlank": 0,
     "cleanWorkflow": "محفوظ",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/tAjVstJRaHbx9VKY7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/128/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/128/report"
@@ -1899,6 +1966,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/yaTqqk6YawavAdtx9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/297/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/297/report"
@@ -1927,6 +1995,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/1uDyguTdRvparb7d8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/302/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/302/report"
@@ -1955,6 +2024,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/gVyEo6MnodL5TYxm9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/325/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/325/report"
@@ -1983,6 +2053,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/qM5gykSxXwiJyrc76",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/442/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/442/report"
@@ -2011,6 +2082,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/1sskCd2djJdMorn2A",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1323/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1323/report"
@@ -2039,6 +2111,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/MPKkces5q92xsEZW7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/17/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/17/report"
@@ -2067,6 +2140,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/sVefDHhy4xB5CFmcA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/731/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/731/report"
@@ -2095,6 +2169,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/HMjLQHDJPYv5kMuS6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1778/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1778/report"
@@ -2123,6 +2198,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/fAM3Vk5yu7M6tnVG7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/968/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/968/report"
@@ -2151,6 +2227,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/whmHm81SBfmhyZNY7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/127/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/127/report"
@@ -2179,6 +2256,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/GZPscFz3J2toG1Vr9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1808/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1808/report"
@@ -2207,6 +2285,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/JXbiSzKcQ5aGkzkLA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/889/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/889/report"
@@ -2235,6 +2314,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/aGT45gHjuq3kwuDH8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1073/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1073/report"
@@ -2262,7 +2342,8 @@
     "acNA": 0,
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
-    "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "maintAcWorkflow": "مُرسل للاعتماد",
+    "acWorkflow": "مُرسل للاعتماد",
     "siteLink": "https://maps.app.goo.gl/YgeMpMpzMjkWQvKN9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1080/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1080/report"
@@ -2291,6 +2372,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/URkT4Zgg2J93CBM79",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/37/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/37/report"
@@ -2319,6 +2401,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/2ubvox1LnusC4mMS8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/396/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/396/report"
@@ -2347,6 +2430,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/iDEEUEiMorL9oTAv5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1602/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1602/report"
@@ -2375,6 +2459,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/1u5fohak7QccX1my8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/399/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/399/report"
@@ -2403,6 +2488,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/DhN33yt6oPf5nsvx9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1780/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1780/report"
@@ -2431,6 +2517,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/Wx4wh8wnPe2uHRfZ8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1784/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1784/report"
@@ -2459,6 +2546,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Sn9FV1nYcnaMTX92A",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1819/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1819/report"
@@ -2487,6 +2575,7 @@
     "acBlank": 0,
     "cleanWorkflow": "محفوظ",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/DEDw24nbgjPS7NTKA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/290/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/290/report"
@@ -2515,6 +2604,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/eUT9KES59hP9NakL7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/294/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/294/report"
@@ -2542,7 +2632,8 @@
     "acNA": 0,
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
-    "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "maintAcWorkflow": "مُرسل للاعتماد",
+    "acWorkflow": "مُرسل للاعتماد",
     "siteLink": "https://maps.app.goo.gl/NEhK8BHYqedrZS8J6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/244/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/244/report"
@@ -2571,6 +2662,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/Ebo8y4t3LxXQVrvf8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1242/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1242/report"
@@ -2599,6 +2691,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/Aryqekjv4isD8BFP7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/383/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/383/report"
@@ -2627,6 +2720,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/9r5H7Qc8sxxV3Ckd9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1379/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1379/report"
@@ -2655,6 +2749,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/xHjVF5S4FRYL79ax9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/408/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/408/report"
@@ -2683,6 +2778,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Rsk889QYrQ5y8uhq7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1974/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1974/report"
@@ -2711,6 +2807,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/u5puvcKLQk2GLQ3F6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1756/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1756/report"
@@ -2739,6 +2836,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/s3zWEb63dzhJ1Wii9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1746/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1746/report"
@@ -2767,6 +2865,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/R8Nzw8fXxkVVATTE9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1807/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1807/report"
@@ -2795,6 +2894,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/xgNUV9HXiDdRTgu17",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/783/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/783/report"
@@ -2823,6 +2923,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/AuSBiwrrFw7A5zsp9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1930/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1930/report"
@@ -2851,6 +2952,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/fjdGouxHY4qCBH9M6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/391/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/391/report"
@@ -2878,7 +2980,8 @@
     "acNA": 0,
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
-    "maintAcWorkflow": "مُرسل للاعتماد",
+    "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/GrL7Ba89BSYtgXwM6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1533/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1533/report"
@@ -2907,6 +3010,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/pmfgxPrJctTTFDJ26",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/20/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/20/report"
@@ -2935,6 +3039,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/ztzG2yanW43GQkMc7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/8/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/8/report"
@@ -2963,6 +3068,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/P1pEtRGicsCw3FnH7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1783/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1783/report"
@@ -2991,6 +3097,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/zWXkcSfZzYDMgUcB7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1785/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1785/report"
@@ -3019,6 +3126,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/QM1fiRUYYXoVHAwo9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1848/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1848/report"
@@ -3047,6 +3155,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/cwqUu9tNbqNyjj7f7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1820/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1820/report"
@@ -3075,6 +3184,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/m7hfHUamxFKXVY7p8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/299/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/299/report"
@@ -3103,6 +3213,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/mDzBoBV1ck29cyDEA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1416/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1416/report"
@@ -3131,6 +3242,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/P4EDBb7bc1wZihx87",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1138/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1138/report"
@@ -3159,6 +3271,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/eQCEXAteG849RUDn7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1926/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1926/report"
@@ -3187,6 +3300,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/sGRhsZMnqJWB4cVv6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/796/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/796/report"
@@ -3215,6 +3329,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/oasvXtWcn3CeGmb5A",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1859/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1859/report"
@@ -3243,6 +3358,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/YdfVQRBkbCL6QQTX9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/362/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/362/report"
@@ -3271,6 +3387,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/XLACTgteVmQgoVye9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/400/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/400/report"
@@ -3299,6 +3416,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/1J7ZqzCcLzapaaKd8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1858/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1858/report"
@@ -3327,6 +3445,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/C9ogQn4kACjJPT6d9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1849/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1849/report"
@@ -3355,6 +3474,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/KZ1JwsUF8vt4kXNy5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/960/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/960/report"
@@ -3383,6 +3503,7 @@
     "acBlank": 5,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Rn5HSRGGgZB7jkZaA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/293/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/293/report"
@@ -3411,6 +3532,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/tRyE599RLgi4BA559",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1940/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1940/report"
@@ -3439,6 +3561,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/3MYKEZBA97RvYU7T6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/662/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/662/report"
@@ -3467,6 +3590,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/Te7izTW6iKzCxB4Q8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1315/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1315/report"
@@ -3495,6 +3619,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/FHz7EX36K29ewnHJ8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/14/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/14/report"
@@ -3523,6 +3648,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/6Bxxvio6RYiXS2KN7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/420/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/420/report"
@@ -3551,6 +3677,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/T5g8EX8aGiMDDJYA8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1789/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1789/report"
@@ -3579,6 +3706,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/XVk6QxehjMoGKfSf6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/94/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/94/report"
@@ -3605,8 +3733,9 @@
     "acNo": 0,
     "acNA": 0,
     "acBlank": 0,
-    "cleanWorkflow": "مُرسل للاعتماد",
-    "maintAcWorkflow": "مُرسل للاعتماد",
+    "cleanWorkflow": "معتمد",
+    "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/wnPeSzTify2v5g3E8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1962/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1962/report"
@@ -3635,6 +3764,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/yrJE3pZQ4HuP89EX8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1516/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1516/report"
@@ -3663,6 +3793,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/ryJPPE7hB28qQed69",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/225/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/225/report"
@@ -3691,6 +3822,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/9fh8S6jLBHvLgw5w6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1676/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1676/report"
@@ -3719,6 +3851,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/TbTk74QuKDEEh86BA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/698/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/698/report"
@@ -3747,6 +3880,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/8s5jD9AgDsZZ5hdAA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/7/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/7/report"
@@ -3775,6 +3909,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/uGDtzLHG6d17n3HX8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1923/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1923/report"
@@ -3803,6 +3938,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/4CW9vZtfsYRUNmq46",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1864/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1864/report"
@@ -3831,6 +3967,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/penKe9fU5pdMHEnTA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1779/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1779/report"
@@ -3859,6 +3996,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/2VyG9x1fj3d1S7mN7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/963/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/963/report"
@@ -3887,6 +4025,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/ixz379o3u8EyFnfv5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/136/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/136/report"
@@ -3915,6 +4054,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/6dBYtwe2SJPkuP2C8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1832/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1832/report"
@@ -3943,6 +4083,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/mhNYJ6dsdKx1xcrd9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/322/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/322/report"
@@ -3971,6 +4112,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Ss58Gn5vqQAYkutC8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/235/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/235/report"
@@ -3999,6 +4141,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/yiwXQWUvmmwcLokG6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/386/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/386/report"
@@ -4027,6 +4170,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/gAPcHJ4ErYv7qsYr7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/618/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/618/report"
@@ -4055,6 +4199,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/Hvk1tp9yVfnvrwJg7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1932/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1932/report"
@@ -4083,6 +4228,7 @@
     "acBlank": 4,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/HqVML7AvaiN5jQ7k6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1382/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1382/report"
@@ -4111,6 +4257,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/cqL4cCDPVEGezDD97",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/771/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/771/report"
@@ -4139,6 +4286,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/6msb6i3cLugeiuDD6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1786/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1786/report"
@@ -4167,6 +4315,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/o3cbwQaskNVcLqsV9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/407/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/407/report"
@@ -4195,6 +4344,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Dzy6SQHXE4EJLDjU9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1836/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1836/report"
@@ -4223,6 +4373,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/ebuhqu9YDN2fCWCD8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/962/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/962/report"
@@ -4251,6 +4402,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/rzQtr9V66T5vzJBVA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1963/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1963/report"
@@ -4279,6 +4431,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مُرسل للاعتماد",
+    "acWorkflow": "مُرسل للاعتماد",
     "siteLink": "https://maps.app.goo.gl/HYcMiXXt166adenU6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/274/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/274/report"
@@ -4307,6 +4460,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مُرسل للاعتماد",
+    "acWorkflow": "مُرسل للاعتماد",
     "siteLink": "https://maps.app.goo.gl/1aN9PVNnAnXASULS7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/309/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/309/report"
@@ -4335,6 +4489,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/LywytyxVJ6a3x2wg8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/761/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/761/report"
@@ -4363,6 +4518,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/gk5zockRZCiwFzGWA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/18/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/18/report"
@@ -4391,6 +4547,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/wes3avf2SxVMHYWc9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1330/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1330/report"
@@ -4419,6 +4576,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/P45yhyksDk3XPvuD8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1868/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1868/report"
@@ -4447,6 +4605,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/V4dpbdky7Y6pnhC58",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/404/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/404/report"
@@ -4475,6 +4634,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/URDPS72gnDnnpJh49",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/353/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/353/report"
@@ -4503,6 +4663,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/bvpLSDCHyYFztLKTA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1970/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1970/report"
@@ -4531,6 +4692,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/Tww1ahMEe8oNcfdw8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1791/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1791/report"
@@ -4559,6 +4721,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/QiG8UEbdcBrwTDqy7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1850/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1850/report"
@@ -4587,6 +4750,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/i4NCH6PLJCTY6toq5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1065/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1065/report"
@@ -4615,6 +4779,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/TTn5mLu9WazDqpd78",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/232/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/232/report"
@@ -4643,6 +4808,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/cUwUvaHRqVCZmfis7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/401/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/401/report"
@@ -4671,6 +4837,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/zSoRaRr5HnVPnJ6u7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1383/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1383/report"
@@ -4699,6 +4866,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/rhaageo1d2VbDhmAA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/382/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/382/report"
@@ -4727,6 +4895,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/VTwwj8cfnz5ZCmgT6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/803/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/803/report"
@@ -4755,6 +4924,7 @@
     "acBlank": 4,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/eHsmJzB4kfaEmFf48",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/966/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/966/report"
@@ -4783,6 +4953,7 @@
     "acBlank": 0,
     "cleanWorkflow": "محفوظ",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/dUYinr6ZHAffWUPo6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/242/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/242/report"
@@ -4811,6 +4982,7 @@
     "acBlank": 0,
     "cleanWorkflow": "محفوظ",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/U8XQaKbF1NskXvhf6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/129/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/129/report"
@@ -4839,6 +5011,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/sjdnfvXJhViNpm2w5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1828/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1828/report"
@@ -4867,6 +5040,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/8myE3DxTrqiUo2m99",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1831/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1831/report"
@@ -4895,6 +5069,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/LN9Cg3gJ92G7bbcE6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1534/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1534/report"
@@ -4923,6 +5098,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/EDm8tXMx81uUzpJW7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/46/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/46/report"
@@ -4951,6 +5127,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/9WkBboSx5Wab8VJr6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/735/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/735/report"
@@ -4979,6 +5156,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/HGVkcu3Pbu7vvGUc8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/538/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/538/report"
@@ -5007,6 +5185,7 @@
     "acBlank": 2,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/ofSZcXamwPcR8EdMA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/402/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/402/report"
@@ -5035,6 +5214,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/S1UXGYw6bh1GW5aC8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1846/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1846/report"
@@ -5063,6 +5243,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Z8mx6rXV5893cgtB9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1959/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1959/report"
@@ -5091,6 +5272,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/Der4Q9jLpcG1P3W47",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/151/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/151/report"
@@ -5119,6 +5301,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/yv8SKtVH3KC8ZH4k7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/379/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/379/report"
@@ -5147,6 +5330,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/urmZc4MiXgg2uRix5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/641/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/641/report"
@@ -5175,6 +5359,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Ck8yrP5brYZfR1hp8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/646/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/646/report"
@@ -5203,6 +5388,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/JL8xZXUqPPcfEsun6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/16/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/16/report"
@@ -5231,6 +5417,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/5N7KZeLRTvYbhwLY6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/791/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/791/report"
@@ -5259,6 +5446,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/L9WDjnVXkrZBG6879",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/837/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/837/report"
@@ -5287,6 +5475,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/wv8aoGv48mdeojty6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1951/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1951/report"
@@ -5315,6 +5504,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/g7sjde2bMCqpkuG7A",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1844/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1844/report"
@@ -5343,6 +5533,7 @@
     "acBlank": 0,
     "cleanWorkflow": "محفوظ",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/kR8AysrPzBN4Zrjb8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1852/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1852/report"
@@ -5371,6 +5562,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/FqeX2Uzi6uRMGUMH8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1830/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1830/report"
@@ -5399,6 +5591,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/jvuh4QPnDkQuSvoaA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1825/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1825/report"
@@ -5427,6 +5620,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/F6NwEhyzjGd1qMfS7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1976/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1976/report"
@@ -5455,6 +5649,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/9fh8S6jLBHvLgw5w6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1387/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1387/report"
@@ -5483,6 +5678,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مُرسل للاعتماد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/WyPuXXmz2PVyT7EG7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1664/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1664/report"
@@ -5511,6 +5707,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/nQUZjZKZ7v9jaU8a9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1381/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1381/report"
@@ -5539,6 +5736,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/rVsXdo78vgEQXjm9A",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/842/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/842/report"
@@ -5567,6 +5765,7 @@
     "acBlank": 4,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/xsYtTdBeEZUZPUrC8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1843/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1843/report"
@@ -5593,8 +5792,9 @@
     "acNo": 0,
     "acNA": 0,
     "acBlank": 0,
-    "cleanWorkflow": "مُرسل للاعتماد",
+    "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/ff8zT2C1kQkdhqpq7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1845/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1845/report"
@@ -5623,6 +5823,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/jqAk46DqEhETRRpb6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1814/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1814/report"
@@ -5651,6 +5852,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/gSs1M77BtJNNQafQ6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/395/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/395/report"
@@ -5679,6 +5881,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/U3YQsBfSpJrdXSwp7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1074/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1074/report"
@@ -5707,6 +5910,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/Wbtfo65xwfgjun1C6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1960/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1960/report"
@@ -5735,6 +5939,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/orht5WKQ4XXUhEdJ7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1885/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1885/report"
@@ -5763,6 +5968,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/9rNe482hzY4ccHF38",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1335/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1335/report"
@@ -5791,6 +5997,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/dQpZXJiVnJvtPLP18",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/308/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/308/report"
@@ -5819,6 +6026,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/3USXCjXmxyxqgDLq8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1854/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1854/report"
@@ -5847,6 +6055,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/QqnWyLAQzBXXHckD6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1798/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1798/report"
@@ -5875,6 +6084,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/1QK5vvLyyBFxmz7o7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1245/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1245/report"
@@ -5903,6 +6113,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/bmEmBY5rzmUZ3M1W9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/258/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/258/report"
@@ -5931,6 +6142,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/xRbmqihd5A13XrLU6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/403/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/403/report"
@@ -5959,6 +6171,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/RyZpEmkAKeZTNepy7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1924/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1924/report"
@@ -5987,6 +6200,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/NA7fsjuMVrPH7J487",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1954/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1954/report"
@@ -6015,6 +6229,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/yUG7xbhrodjkDtrB6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1794/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1794/report"
@@ -6042,7 +6257,8 @@
     "acNA": 0,
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
-    "maintAcWorkflow": "مُرسل للاعتماد",
+    "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/JVJrotCZkcujqTZp7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/781/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/781/report"
@@ -6071,6 +6287,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/Gpr7Sj7jn3T7EkXB9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/685/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/685/report"
@@ -6099,6 +6316,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/y3TRstp4qxDDBk2j7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1817/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1817/report"
@@ -6127,6 +6345,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/SqCgctt3CsMbqFWb7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/756/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/756/report"
@@ -6155,6 +6374,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/AEi3wZU1pBancj8P6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/798/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/798/report"
@@ -6183,6 +6403,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/wmSwGYtU1QEsfTzY8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1949/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1949/report"
@@ -6211,6 +6432,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/GN3ca2TN8XUMJYZ66",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1853/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1853/report"
@@ -6239,6 +6461,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/CmoPoyqyPPmZ7U8d7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1797/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1797/report"
@@ -6267,6 +6490,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/ogtq9MqRBKFZHjnb6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1241/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1241/report"
@@ -6295,6 +6519,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/XSFzD9qJdwQb67sr6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/6/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/6/report"
@@ -6323,6 +6548,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/ByW1xjNB56pMHc8Y6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/22/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/22/report"
@@ -6351,6 +6577,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/dGeeiosSATPPCFss7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/378/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/378/report"
@@ -6379,6 +6606,7 @@
     "acBlank": 4,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/mVCij3nDs5Razcax6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1750/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1750/report"
@@ -6407,6 +6635,7 @@
     "acBlank": 4,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/uMaKTZpUGvt7JkmU7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1856/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1856/report"
@@ -6435,6 +6664,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/YKKxzsLSLDpW3jyp8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1796/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1796/report"
@@ -6463,6 +6693,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/eiedc6Jr4N4ZBK47A",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1062/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1062/report"
@@ -6491,6 +6722,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/nKFmGcCTmYc3CHpMA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/793/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/793/report"
@@ -6519,6 +6751,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/ExGhF4L2GTGMxrbr8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/45/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/45/report"
@@ -6547,6 +6780,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/sXHhRE4yAQaZSEM88",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/388/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/388/report"
@@ -6575,6 +6809,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/qx77fb2VcXJqZuUEA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1969/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1969/report"
@@ -6603,6 +6838,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/CjMCp8jSVDSQSZJE6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1804/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1804/report"
@@ -6631,6 +6867,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/rVpEU7oBufeS7JWa7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/95/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/95/report"
@@ -6659,6 +6896,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/Z5kYhwhzmnM17kcR6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1140/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1140/report"
@@ -6687,6 +6925,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/fQ9yCZWFhjcPJZMM7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/758/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/758/report"
@@ -6715,6 +6954,7 @@
     "acBlank": 1,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/vESCq5bpPvF8JPmbA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1536/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1536/report"
@@ -6743,6 +6983,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/yoahKoTLLd1kZf9eA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1861/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1861/report"
@@ -6771,6 +7012,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/5df5NxTNN7dt2yD47",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/856/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/856/report"
@@ -6799,6 +7041,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/SA48fD2GB7kwcn3EA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1809/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1809/report"
@@ -6827,6 +7070,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/kqdrvLFqdLX1oXcg6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1799/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1799/report"
@@ -6855,6 +7099,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/WaEFguPv8Gnm6HiV8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1838/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1838/report"
@@ -6883,6 +7128,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/xbYaRYbai2Cb3VbS8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1803/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1803/report"
@@ -6911,6 +7157,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/cqcwoCR2HPDFgVLFA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1282/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1282/report"
@@ -6939,6 +7186,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/DahV4kX9DZ5ugzvdA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1829/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1829/report"
@@ -6967,6 +7215,7 @@
     "acBlank": 5,
     "cleanWorkflow": "مرفوض — قيد التعديل",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/vcucwWkpEZkZe1ze7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/566/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/566/report"
@@ -6995,6 +7244,7 @@
     "acBlank": 0,
     "cleanWorkflow": "مُرسل للاعتماد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/CnJQXq9tRv6XxNFC6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1649/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1649/report"
@@ -7023,6 +7273,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/D1JKWcp1DCp1xkVe7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1446/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1446/report"
@@ -7051,6 +7302,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/nrtPT15s7Z5eBBar5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1823/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1823/report"
@@ -7079,6 +7331,7 @@
     "acBlank": 2,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/2A6N336YuWGM17Gd8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1674/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1674/report"
@@ -7107,6 +7360,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/LyQjb4nHnWiueju67",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1939/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1939/report"
@@ -7135,6 +7389,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/mQ7uSZrYbHvqaVsv9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1682/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1682/report"
@@ -7163,6 +7418,7 @@
     "acBlank": 3,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/SmdKy6Y4Mbpm4qtD8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1855/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1855/report"
@@ -7191,6 +7447,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/1d3PZDmjfuzahtdz7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1792/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1792/report"
@@ -7219,6 +7476,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/A9pFnit5nYmPJmuj9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/326/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/326/report"
@@ -7247,6 +7505,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/aZ8yVN7FD8Rqp2d77",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1869/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1869/report"
@@ -7275,6 +7534,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/ohXoaZo2Jt4ZG2HW8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1920/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1920/report"
@@ -7303,6 +7563,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/8mwo97qk3KCW2kCU9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1929/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1929/report"
@@ -7331,6 +7592,7 @@
     "acBlank": 4,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/fuZd4x8kZRzJ4qds5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1842/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1842/report"
@@ -7359,6 +7621,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/Nmq4TxtasHPht2Mt5",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1857/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1857/report"
@@ -7387,6 +7650,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Auag46hHndARC4yJ9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1942/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1942/report"
@@ -7415,6 +7679,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/d5tp4FAyFGJo3gKg8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1539/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1539/report"
@@ -7443,6 +7708,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/sRGtEvu3tu6Da3mQ8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/15/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/15/report"
@@ -7471,6 +7737,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "لم يبدأ التقييم",
+    "acWorkflow": "لم يبدأ التقييم",
     "siteLink": "https://maps.app.goo.gl/fSk1sBV3MTncB8Wh9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/398/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/398/report"
@@ -7499,6 +7766,7 @@
     "acBlank": 4,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/iUdPDVpFc2xgdEvb8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1839/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1839/report"
@@ -7527,6 +7795,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/3RmRAE624bMEF2Rc7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/948/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/948/report"
@@ -7555,6 +7824,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/jrKvmzymQboPt23q9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/423/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/423/report"
@@ -7583,6 +7853,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "لم يبدأ التقييم",
+    "acWorkflow": "لم يبدأ التقييم",
     "siteLink": "https://maps.app.goo.gl/1RHr3onz7f6xBYLMA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1928/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1928/report"
@@ -7611,6 +7882,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/7Hu8qnUJjC8PtVN96",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1724/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1724/report"
@@ -7639,6 +7911,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/ZKiLCrEmgmSHVr4r7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/380/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/380/report"
@@ -7667,6 +7940,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/d9wRzpkKJ6c9b55o7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1973/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1973/report"
@@ -7695,6 +7969,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "لم يبدأ التقييم",
+    "acWorkflow": "لم يبدأ التقييم",
     "siteLink": "https://maps.app.goo.gl/gZwtdJQihKMYe9NC9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1802/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1802/report"
@@ -7723,6 +7998,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/vVMPJ8LHZP4RYzuY6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/782/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/782/report"
@@ -7751,6 +8027,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/n17B8q1o77csuqda8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1958/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1958/report"
@@ -7779,6 +8056,7 @@
     "acBlank": 4,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/7Q1k8gvZiYqbr4ed9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/490/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/490/report"
@@ -7807,6 +8085,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/Lc9v5nZUnrA5QAxV8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/729/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/729/report"
@@ -7835,6 +8114,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/38WgnhiZWL74hmLZ6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1812/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1812/report"
@@ -7863,6 +8143,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/AJdCUcu8X5P3dwr77",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1088/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1088/report"
@@ -7891,6 +8172,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/rGoaZq4gH6vrpDmeA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/577/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/577/report"
@@ -7919,6 +8201,7 @@
     "acBlank": 1,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/9vPGwVAj2H3fCDfFA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/21/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/21/report"
@@ -7947,6 +8230,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/cNNjPqJQfjCVatfVA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/19/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/19/report"
@@ -7975,6 +8259,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/jzHQnGBJmQnetZe76",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1816/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1816/report"
@@ -8003,6 +8288,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/w2rZsj6hUDR8dHNh7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1811/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1811/report"
@@ -8031,6 +8317,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/DDTKFXgHqBZLbsEr7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/487/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/487/report"
@@ -8059,6 +8346,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/VDhqriZ6N2KXHcjp7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/350/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/350/report"
@@ -8087,6 +8375,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "لم يبدأ التقييم",
+    "acWorkflow": "لم يبدأ التقييم",
     "siteLink": "https://maps.app.goo.gl/iYdygD65Qo76zmki9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1886/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1886/report"
@@ -8115,6 +8404,7 @@
     "acBlank": 3,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/TiS2y7bHHkbiUEYQ6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/13/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/13/report"
@@ -8143,6 +8433,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/Q8UntdsmXurNHTcC7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/921/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/921/report"
@@ -8171,6 +8462,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/SBCXxAQGeQnUsYEm7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/305/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/305/report"
@@ -8199,6 +8491,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/ApLTYLCsYAyBrmFa9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/647/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/647/report"
@@ -8227,6 +8520,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/MhMox8iravmpZWVFA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/31/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/31/report"
@@ -8255,6 +8549,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/rZ9hJ2t93nKPWw956",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/787/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/787/report"
@@ -8283,6 +8578,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "مرفوض — قيد التعديل",
+    "acWorkflow": "مرفوض — قيد التعديل",
     "siteLink": "https://maps.app.goo.gl/MSrErVKfaf7U4UDz9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/97/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/97/report"
@@ -8311,6 +8607,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/MQPqSCprhvTBnf639",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1957/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1957/report"
@@ -8339,6 +8636,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/KjWmMTM88Rapu3fk8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/393/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/393/report"
@@ -8367,6 +8665,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/EKQRRmP9kH2S3U517",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1447/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1447/report"
@@ -8395,6 +8694,7 @@
     "acBlank": 1,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/CpUBvUcQE8qDoNGs6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/10/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/10/report"
@@ -8423,6 +8723,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/gAy3ebvyHAGj6Etg6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/405/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/405/report"
@@ -8451,6 +8752,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/p9GTZQFUcb9bTo7n7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1965/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1965/report"
@@ -8479,6 +8781,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/APnZNa7xNch4aYEq7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1793/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1793/report"
@@ -8507,6 +8810,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/GXUsaCXwvV3XrMru8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1054/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1054/report"
@@ -8535,6 +8839,7 @@
     "acBlank": 5,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/icqjhMMTnJzTfDKbA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/769/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/769/report"
@@ -8563,6 +8868,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "لم يبدأ التقييم",
+    "acWorkflow": "لم يبدأ التقييم",
     "siteLink": "https://maps.app.goo.gl/t2vJXKNDhrtQtTJS9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/23/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/23/report"
@@ -8591,6 +8897,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/4jRZx6e8CT3Ekb7c7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1874/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1874/report"
@@ -8619,6 +8926,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/q7SpdcpXYZ5Jd8wd6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1851/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1851/report"
@@ -8647,6 +8955,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/oopNZ2c48vLibBjWA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1822/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1822/report"
@@ -8675,6 +8984,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "محفوظ",
+    "acWorkflow": "محفوظ",
     "siteLink": "https://maps.app.goo.gl/nrbQ15bru8qcuW5Q7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/438/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/438/report"
@@ -8703,6 +9013,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/TGfb3EtcHroU6fPH6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1872/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1872/report"
@@ -8731,6 +9042,7 @@
     "acBlank": 0,
     "cleanWorkflow": "معتمد",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/JtndTn9pBeZE2vv99",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/39/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/39/report"
@@ -8759,6 +9071,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/ynjHuJ52i2RgeQet7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1749/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1749/report"
@@ -8787,6 +9100,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/JR4MKijxHo2KxWNH7",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/594/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/594/report"
@@ -8815,6 +9129,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/Ls2dK7w7nagQxhdWA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/983/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/983/report"
@@ -8843,6 +9158,7 @@
     "acBlank": 0,
     "cleanWorkflow": "draft",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/64g27bfNRU7Er7dP8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/585/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/585/report"
@@ -8871,6 +9187,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "لم يبدأ التقييم",
+    "acWorkflow": "لم يبدأ التقييم",
     "siteLink": "https://maps.app.goo.gl/tQ1BgSJibXHLxGcf6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1884/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1884/report"
@@ -8899,6 +9216,7 @@
     "acBlank": 5,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/o5mmbW4LhwGfcNpT9",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1860/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1860/report"
@@ -8927,6 +9245,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/wCYbBXoqgSRGvSD66",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/96/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/96/report"
@@ -8955,6 +9274,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/fHRnHzAecBPZHipPA",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/897/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/897/report"
@@ -8983,6 +9303,7 @@
     "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "معتمد",
+    "acWorkflow": "معتمد",
     "siteLink": "https://maps.app.goo.gl/ipa82W85UePsGoMr6",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/417/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/417/report"
@@ -9011,6 +9332,7 @@
     "acBlank": 1,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/GhxYs49xwF6jnasw8",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/11/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/11/report"
@@ -9033,12 +9355,13 @@
     "maintNo": 0,
     "maintNA": 2,
     "maintBlank": 0,
-    "acYes": 4,
+    "acYes": 5,
     "acNo": 0,
     "acNA": 0,
-    "acBlank": 1,
+    "acBlank": 0,
     "cleanWorkflow": "لم يبدأ التقييم",
     "maintAcWorkflow": "draft",
+    "acWorkflow": "draft",
     "siteLink": "https://maps.app.goo.gl/yhTyUuTgt4Ncd4586",
     "maintReport": "https://osool360.com/ar/dashboard/analytics/assessments/6/buildings/1863/report",
     "cleanReport": "https://osool360.com/ar/dashboard/analytics/assessments/7/buildings/1863/report"
