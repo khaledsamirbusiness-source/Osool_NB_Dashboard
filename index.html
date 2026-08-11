@@ -5614,7 +5614,7 @@ function updateReadyGauge(data){
   $("readyGaugeProgress").style.strokeDasharray=`${Math.max(0,Math.min(100,average))} 100`;
 }
 
-let supervisorSort={key:"rate",dir:"desc"};
+let supervisorSort={key:"rank",dir:"asc"};
 
 function buildSupervisorSummary(data){
   const supervisors=new Map();
