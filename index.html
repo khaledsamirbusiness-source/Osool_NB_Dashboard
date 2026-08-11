@@ -1374,6 +1374,36 @@
 }
 </style>
 
+
+<style>
+/* ===== مؤشر حالة تحديث البيانات ===== */
+.status-left .dot{
+  transition:.2s ease;
+}
+.status-left .dot.updating{
+  background:#f0a51b!important;
+  box-shadow:0 0 0 5px rgba(240,165,27,.13)!important;
+  animation:updatePulse 1s ease-in-out infinite;
+}
+.status-left .dot.error{
+  background:#e65058!important;
+  box-shadow:0 0 0 5px rgba(230,80,88,.12)!important;
+  animation:none;
+}
+.status-left .dot.success{
+  background:#2ecc9a!important;
+  box-shadow:0 0 0 5px rgba(46,204,154,.12)!important;
+  animation:none;
+}
+@keyframes updatePulse{
+  0%,100%{transform:scale(.8);opacity:.65}
+  50%{transform:scale(1.15);opacity:1}
+}
+#fileStatus{
+  transition:.2s ease;
+}
+</style>
+
 </head>
 <body>
 <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
@@ -5272,7 +5302,8 @@
     <div>
       <h2>متابعة إجراءات المهندسين</h2>
       <div class="engineer-actions-note">
-        يعرض عدد مرات الاعتماد والرفض المسجلة لكل مهندس ضمن النتائج الحالية.
+        يعرض عدد مرات الاعتماد والرفض المسجلة لكل مهندس ضمن النتائج الحالية، ويتأثر بجميع الفلاتر والاختيارات في الصفحة.
+        القيم الفارغة أو <b>0</b> لا تدخل في العد.
       </div>
     </div>
   </div>
@@ -6284,7 +6315,12 @@ function loadedStatusText(data){
 function setUpdateStatus(message,state="ok"){
   $("fileStatus").textContent=message;
   const dot=document.querySelector('.status-left .dot');
-  if(dot){dot.classList.remove('updating','error'); if(state==="updating")dot.classList.add('updating'); if(state==="error")dot.classList.add('error');}
+  if(dot){
+    dot.classList.remove('updating','error','success');
+    if(state==="updating")dot.classList.add('updating');
+    else if(state==="error")dot.classList.add('error');
+    else dot.classList.add('success');
+  }
 }
 function getGithubToken(){return localStorage.getItem(TOKEN_STORAGE_KEY)||"";}
 function requestGithubToken(){
@@ -6322,7 +6358,35 @@ async function publishDataToGithub(data){
   if(!putRes.ok){const msg=await putRes.text();throw new Error(`تعذر رفع البيانات إلى GitHub (${putRes.status}): ${msg.slice(0,160)}`);}
   return true;
 }
+
+function sleep(ms){return new Promise(resolve=>setTimeout(resolve,ms));}
+
+async function waitForPublishedData(expectedUpdatedAt){
+  // بعد نجاح GitHub API قد يحتاج GitHub Pages عدة ثوانٍ حتى يقدم data.json الجديد.
+  // نتحقق من نفس ملف الموقع مع cache-busting حتى لا نعلن نجاح النشر قبل ظهوره فعلياً.
+  for(let attempt=1;attempt<=12;attempt++){
+    try{
+      const res=await fetch(`./data.json?verify=${Date.now()}_${attempt}`,{
+        cache:"no-store",
+        headers:{"Cache-Control":"no-cache"}
+      });
+      if(res.ok){
+        const published=await res.json();
+        if(Array.isArray(published)&&published.length){
+          const latest=latestUpdatedAt(published);
+          if(latest===expectedUpdatedAt) return true;
+        }
+      }
+    }catch(err){
+      console.warn("انتظار نشر data.json",err);
+    }
+    await sleep(1500);
+  }
+  return false;
+}
+
 async function loadEmbedded(){
+  setUpdateStatus("جارٍ تحميل آخر البيانات المنشورة...","updating");
   let loaded=false;
   let fallback=[];
   try{fallback=normalizeAllData(JSON.parse($("embeddedData").textContent||"[]"));}catch(e){fallback=[];}
@@ -6332,7 +6396,7 @@ async function loadEmbedded(){
     if(res.ok){
       const onlineRaw=await res.json();
       if(Array.isArray(onlineRaw)&&onlineRaw.length){
-        const onlineHasRowLevel=onlineRaw.some(r=>r&&r._schemaVersion===2&&Array.isArray(r.scopeRows)&&r.scopeRows.length);
+        const onlineHasRowLevel=onlineRaw.some(r=>r&&Array.isArray(r.scopeRows)&&r.scopeRows.length);
         if(onlineHasRowLevel){
           allData=normalizeAllData(onlineRaw);
           loaded=true;
@@ -6356,7 +6420,7 @@ $("excelFile").addEventListener("change",async e=>{
   const f=e.target.files[0];
   if(!f)return;
 
-  setUpdateStatus("جارٍ قراءة ملف Excel...","updating");
+  setUpdateStatus("جارٍ قراءة ملف Excel وتجهيز البيانات...","updating");
   try{
     const buf=await f.arrayBuffer();
     const book=XLSX.read(buf,{type:"array"});
@@ -6414,9 +6478,18 @@ $("excelFile").addEventListener("change",async e=>{
     populateBaseFilters();
     resetAll();
 
-    setUpdateStatus(`تم تحديث البيانات بتاريخ ${formatSaudiDateTime(updatedAt)} — جارٍ التحديث أونلاين...`,"updating");
+    setUpdateStatus(`جارٍ حفظ التحديث على GitHub — ${allData.length.toLocaleString("ar")} مدرسة...`,"updating");
     await publishDataToGithub(allData);
-    setUpdateStatus(`تم تحديث البيانات بتاريخ ${formatSaudiDateTime(updatedAt)} — ${allData.length.toLocaleString("ar")} مدرسة`);
+
+    setUpdateStatus("تم الحفظ على GitHub — جارٍ انتظار ظهور البيانات الجديدة على الموقع...","updating");
+    const published=await waitForPublishedData(updatedAt);
+
+    if(published){
+      setUpdateStatus(`تم تحديث الموقع بنجاح بتاريخ ${formatSaudiDateTime(updatedAt)} — ${allData.length.toLocaleString("ar")} مدرسة`,"ok");
+    }else{
+      // الحفظ نفسه نجح، لكن GitHub Pages قد يتأخر أكثر من فترة التحقق.
+      setUpdateStatus(`تم الحفظ على GitHub بنجاح بتاريخ ${formatSaudiDateTime(updatedAt)} — قد يستغرق ظهور التحديث على الموقع لحظات`,"ok");
+    }
   }catch(err){
     console.error(err);
     setUpdateStatus(`تعذر التحديث الأونلاين: ${err.message}`,"error");
