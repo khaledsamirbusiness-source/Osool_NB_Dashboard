@@ -1404,6 +1404,17 @@
 }
 </style>
 
+
+<style>
+#activeFilterText{
+  display:block;
+  max-width:100%;
+  white-space:normal;
+  overflow-wrap:anywhere;
+  line-height:1.55;
+}
+</style>
+
 </head>
 <body>
 <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
@@ -6183,10 +6194,56 @@ function resetMobileTableScroll(){
   });
 }
 
+function filterSummaryText(){
+  const parts=[];
+  const cardLabels={
+    complete:"المكتمل كلياً",
+    partial:"المكتمل جزئياً",
+    notstarted:"لم يبدأ نهائياً",
+    ready:"الجاهز تشغيلياً",
+    notready:"غير الجاهز تشغيلياً"
+  };
+
+  if(activeCard!=="all" && cardLabels[activeCard]){
+    parts.push(`حالة المدارس: ${cardLabels[activeCard]}`);
+  }
+
+  const rawSearch=clean($("search").value);
+  if(rawSearch){
+    const tokens=rawSearch.split(/[\s,،;|]+/).map(v=>v.trim()).filter(Boolean);
+    if(tokens.length>6){
+      parts.push(`البحث: ${tokens.length.toLocaleString("ar")} قيمة`);
+    }else{
+      parts.push(`البحث: ${rawSearch}`);
+    }
+  }
+
+  const defs=[
+    ["cityFilter","المدينة"],
+    ["supervisorFilter","المشرف"],
+    ["scopeFilter","النطاق"],
+    ["subscopeFilter","النطاق الفرعي"],
+    ["contractorFilter","المقاول"],
+    ["workflowFilter","حالة سير العمل"],
+    ["readinessFilter","نسبة الجاهزية"],
+    ["answerFilter","إجابات الأسئلة"]
+  ];
+
+  defs.forEach(([id,label])=>{
+    const selected=multiSelected(id);
+    const options=multiFilterOptions[id]||[];
+    // الاختيار الفارغ أو اختيار كل القيم لا يقيّد النتائج، لذلك لا نعرضه كفلتر فعلي.
+    if(!selected.length || (options.length && selected.length===options.length)) return;
+    parts.push(`${label}: ${selected.join("، ")}`);
+  });
+
+  return parts.length ? parts.join(" | ") : "كل المدارس";
+}
+
 function updateActiveCardUI(){
   document.querySelectorAll(".kpi").forEach(el=>el.classList.toggle("active",el.dataset.card===activeCard));
-  const labels={all:"كل المدارس",complete:"المكتمل كلياً",partial:"المكتمل جزئياً",notstarted:"لم يبدأ نهائياً",ready:"الجاهز تشغيلياً",notready:"غير الجاهز تشغيلياً"};
-  $("activeFilterText").textContent=`الاختيار الحالي: ${labels[activeCard]}`;
+  $("activeFilterText").textContent=`الاختيار الحالي: ${filterSummaryText()}`;
+  $("activeFilterText").title=filterSummaryText();
 }
 function refresh(){
   syncFilterOptions();
@@ -6362,13 +6419,18 @@ async function publishDataToGithub(data){
 function sleep(ms){return new Promise(resolve=>setTimeout(resolve,ms));}
 
 async function waitForPublishedData(expectedUpdatedAt){
-  // بعد نجاح GitHub API قد يحتاج GitHub Pages عدة ثوانٍ حتى يقدم data.json الجديد.
-  // نتحقق من نفس ملف الموقع مع cache-busting حتى لا نعلن نجاح النشر قبل ظهوره فعلياً.
-  for(let attempt=1;attempt<=12;attempt++){
+  // لا نعلن اكتمال التحديث إلا بعد أن تظهر النسخة الجديدة فعلياً
+  // من نفس ملف البيانات الذي ستقرأه الصفحة عند عمل Refresh.
+  for(let attempt=1;attempt<=30;attempt++){
+    setUpdateStatus(`جارٍ استكمال التحديث... ${attempt}/30`,"updating");
     try{
       const res=await fetch(`./data.json?verify=${Date.now()}_${attempt}`,{
         cache:"no-store",
-        headers:{"Cache-Control":"no-cache"}
+        headers:{
+          "Cache-Control":"no-cache, no-store, must-revalidate",
+          "Pragma":"no-cache",
+          "Expires":"0"
+        }
       });
       if(res.ok){
         const published=await res.json();
@@ -6378,9 +6440,9 @@ async function waitForPublishedData(expectedUpdatedAt){
         }
       }
     }catch(err){
-      console.warn("انتظار نشر data.json",err);
+      console.warn("انتظار ظهور البيانات الجديدة",err);
     }
-    await sleep(1500);
+    await sleep(2000);
   }
   return false;
 }
@@ -6478,22 +6540,21 @@ $("excelFile").addEventListener("change",async e=>{
     populateBaseFilters();
     resetAll();
 
-    setUpdateStatus(`جارٍ حفظ التحديث على GitHub — ${allData.length.toLocaleString("ar")} مدرسة...`,"updating");
+    setUpdateStatus(`جارٍ رفع البيانات الجديدة — ${allData.length.toLocaleString("ar")} مدرسة...`,"updating");
     await publishDataToGithub(allData);
 
-    setUpdateStatus("تم الحفظ على GitHub — جارٍ انتظار ظهور البيانات الجديدة على الموقع...","updating");
+    setUpdateStatus("جارٍ استكمال التحديث والتحقق من ظهور البيانات الجديدة...","updating");
     const published=await waitForPublishedData(updatedAt);
 
     if(published){
-      setUpdateStatus(`تم تحديث الموقع بنجاح بتاريخ ${formatSaudiDateTime(updatedAt)} — ${allData.length.toLocaleString("ar")} مدرسة`,"ok");
+      setUpdateStatus(`تم التحديث بالكامل بتاريخ ${formatSaudiDateTime(updatedAt)} — ${allData.length.toLocaleString("ar")} مدرسة`,"ok");
     }else{
-      // الحفظ نفسه نجح، لكن GitHub Pages قد يتأخر أكثر من فترة التحقق.
-      setUpdateStatus(`تم الحفظ على GitHub بنجاح بتاريخ ${formatSaudiDateTime(updatedAt)} — قد يستغرق ظهور التحديث على الموقع لحظات`,"ok");
+      setUpdateStatus("لم يتم التحديث بالكامل — يرجى إعادة المحاولة","error");
     }
   }catch(err){
     console.error(err);
-    setUpdateStatus(`تعذر التحديث الأونلاين: ${err.message}`,"error");
-    alert("تمت قراءة الملف محلياً، لكن تعذر حفظ التحديث على GitHub.\n\n"+err.message);
+    setUpdateStatus(`لم يتم التحديث بالكامل: ${err.message}`,"error");
+    alert("تمت قراءة الملف، لكن لم يتم التحديث بالكامل.\n\n"+err.message);
   }finally{
     e.target.value="";
   }
