@@ -5581,44 +5581,54 @@ $("clearFilters").addEventListener("click",resetAll);
 
 
 function exportCurrentTable(){
-  const rows=cardFiltered(baseFiltered());
-  if(!rows.length){
-    alert("لا توجد نتائج حالية لتصديرها.");
-    return;
-  }
+  const data=cardFiltered(baseFiltered());
 
-  const exportRows=rows.map(r=>{
+  const rows=data.map(r=>{
     const c=viewClassify(r);
     const evaluation=c==="complete"?"مكتمل كلياً":c==="notstarted"?"لم يبدأ":"مكتمل جزئياً";
+
+    const currentRows=matchingScopeRows(r);
+    const cleanRows=currentRows.filter(x=>clean(x.main)==="النظافة");
+    const maintRows=currentRows.filter(x=>clean(x.main)==="الصيانة");
+
+    const cleanState=cleanRows.length?mainWorkflow({...r,scopeRows:cleanRows},"النظافة"):"";
+    const maintState=maintRows.length?mainWorkflow({...r,scopeRows:maintRows},"الصيانة"):"";
+
+    const cleanAgg=aggregateScopeRows(cleanRows);
+    const maintAgg=aggregateScopeRows(maintRows);
+
+    const cleanEval=cleanRows.length?pct(cleanAgg.yes+cleanAgg.na,cleanAgg.total):null;
+    const maintEval=maintRows.length?pct(maintAgg.yes+maintAgg.na,maintAgg.total):null;
+
+    const overall=readinessPct(r);
+
     return {
       "الرقم الوزاري":clean(r.ministryNo),
       "اسم المدرسة":clean(r.school),
       "المدينة":clean(r.city),
+      "النوع":clean(r.gender),
       "المشرف/ة":clean(r.supervisor),
-      "حالة سير العمل - النظافة":mainWorkflow(r,"النظافة")||"-",
-      "تقييم بنود النظافة":fmtPct(mainEvaluationPct(r,"النظافة")),
-      "حالة سير العمل - الصيانة":mainWorkflow(r,"الصيانة")||"-",
-      "تقييم بنود الصيانة":fmtPct(mainEvaluationPct(r,"الصيانة")),
+      "حالة النظافة":cleanState||"-",
+      "تقييم بنود النظافة":cleanEval===null?"-":fmtPct(cleanEval),
+      "حالة الصيانة":maintState||"-",
+      "تقييم بنود الصيانة":maintEval===null?"-":fmtPct(maintEval),
       "حالة التقييم":evaluation,
-      "نسبة الجاهزية":fmtPct(readinessPct(r)),
-      "الجاهزية التشغيلية":viewIsReady(r)?"جاهز":"غير جاهز",
-      "رابط الموقع":clean(r.siteLink)
+      "الجاهزية":fmtPct(overall),
+      "تشغيلياً":viewIsReady(r)?"جاهز":"غير جاهز"
     };
   });
 
-  const ws=XLSX.utils.json_to_sheet(exportRows);
-  ws["!rtl"]=true;
+  const ws=XLSX.utils.json_to_sheet(rows);
+  const wb=XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb,ws,"تفاصيل المدارس");
+
   ws["!cols"]=[
-    {wch:14},{wch:36},{wch:14},{wch:22},{wch:25},{wch:18},
-    {wch:25},{wch:18},{wch:18},{wch:16},{wch:18},{wch:42}
+    {wch:14},{wch:34},{wch:14},{wch:10},{wch:22},
+    {wch:22},{wch:18},{wch:22},{wch:18},{wch:18},
+    {wch:14},{wch:14}
   ];
 
-  const wb=XLSX.utils.book_new();
-  XLSX.utils.book_append_sheet(wb,ws,"النتائج المفلترة");
-
-  const now=new Date();
-  const stamp=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,"0")}-${String(now.getDate()).padStart(2,"0")}`;
-  XLSX.writeFile(wb,`تقرير_المدارس_المفلتر_${stamp}.xlsx`);
+  XLSX.writeFile(wb,"تفاصيل_المدارس_المفلترة.xlsx");
 }
 $("exportTableBtn").addEventListener("click",exportCurrentTable);
 
