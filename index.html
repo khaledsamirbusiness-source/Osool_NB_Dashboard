@@ -967,6 +967,30 @@
 }
 </style>
 
+
+<style>
+/* Fill the white school-panel space while keeping the original vertical scroll */
+@media (min-width:769px){
+  .main-grid > .panel:first-child{
+    display:flex!important;
+    flex-direction:column!important;
+  }
+
+  .main-grid > .panel:first-child .panel-head{
+    flex:0 0 auto!important;
+  }
+
+  .main-grid > .panel:first-child .table-wrap{
+    flex:1 1 0!important;
+    height:0!important;
+    min-height:0!important;
+    max-height:none!important;
+    overflow-y:auto!important;
+    overflow-x:hidden!important;
+  }
+}
+</style>
+
 </head>
 <body>
 <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
