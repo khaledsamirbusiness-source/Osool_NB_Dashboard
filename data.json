@@ -61,7 +61,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -126,7 +126,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -191,7 +191,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -256,7 +256,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -321,7 +321,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -386,7 +386,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -451,7 +451,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -516,7 +516,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -581,7 +581,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -646,7 +646,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -711,7 +711,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -776,7 +776,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -808,7 +808,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       },
       {
         "contractor": "سما الافاق",
@@ -818,7 +818,7 @@
         "no": 1,
         "na": 5,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       },
       {
         "contractor": "سما الافاق",
@@ -828,7 +828,7 @@
         "no": 1,
         "na": 1,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       },
       {
         "contractor": "سما الافاق",
@@ -838,10 +838,10 @@
         "no": 1,
         "na": 0,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -906,7 +906,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -971,7 +971,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1036,7 +1036,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1101,7 +1101,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1166,7 +1166,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1231,7 +1231,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1296,7 +1296,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1361,7 +1361,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1426,7 +1426,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1491,7 +1491,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1556,7 +1556,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1621,7 +1621,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1686,7 +1686,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1751,7 +1751,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1816,7 +1816,7 @@
         "workflow": "محفوظ"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1881,7 +1881,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -1946,7 +1946,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2011,7 +2011,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2076,7 +2076,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2141,7 +2141,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2206,7 +2206,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2228,7 +2228,7 @@
         "no": 0,
         "na": 1,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       },
       {
         "contractor": "الهاجرى",
@@ -2238,17 +2238,17 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "معتمد"
       },
       {
         "contractor": "الهاجرى",
         "main": "الصيانة",
         "sub": "السلامة",
-        "yes": 10,
-        "no": 0,
+        "yes": 9,
+        "no": 1,
         "na": 3,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "معتمد"
       },
       {
         "contractor": "الهاجرى",
@@ -2258,7 +2258,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "معتمد"
       },
       {
         "contractor": "الهاجرى",
@@ -2268,10 +2268,10 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2336,7 +2336,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2401,7 +2401,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2466,7 +2466,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2531,7 +2531,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2596,7 +2596,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2661,7 +2661,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2726,7 +2726,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2791,7 +2791,7 @@
         "workflow": "محفوظ"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2856,7 +2856,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2921,7 +2921,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -2986,7 +2986,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3051,7 +3051,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3116,7 +3116,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3181,7 +3181,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3246,7 +3246,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3311,7 +3311,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3376,7 +3376,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3441,7 +3441,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3506,7 +3506,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3571,7 +3571,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3636,7 +3636,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3701,7 +3701,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3766,7 +3766,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3831,7 +3831,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3896,7 +3896,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -3934,10 +3934,10 @@
         "contractor": "الهاجرى",
         "main": "الصيانة",
         "sub": "السلامة",
-        "yes": 0,
-        "no": 0,
-        "na": 0,
-        "blank": 13,
+        "yes": 4,
+        "no": 4,
+        "na": 5,
+        "blank": 0,
         "workflow": "draft"
       },
       {
@@ -3961,7 +3961,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4026,7 +4026,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4091,7 +4091,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4156,7 +4156,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4221,7 +4221,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4286,7 +4286,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4351,7 +4351,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4416,7 +4416,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4481,7 +4481,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4546,7 +4546,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4611,7 +4611,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4676,7 +4676,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4741,7 +4741,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4806,7 +4806,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4871,7 +4871,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -4936,7 +4936,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5001,7 +5001,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5066,7 +5066,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5131,7 +5131,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5196,7 +5196,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5261,7 +5261,7 @@
         "workflow": "مُرسل للاعتماد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5326,7 +5326,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5391,7 +5391,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5456,7 +5456,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5521,7 +5521,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5586,7 +5586,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5651,7 +5651,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5716,7 +5716,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5781,7 +5781,7 @@
         "workflow": "محفوظ"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5846,7 +5846,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5911,7 +5911,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -5976,7 +5976,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6041,7 +6041,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6106,7 +6106,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6171,7 +6171,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6236,7 +6236,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6301,7 +6301,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6366,7 +6366,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6431,7 +6431,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6496,7 +6496,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6561,7 +6561,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6626,7 +6626,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6691,7 +6691,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6756,7 +6756,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6821,7 +6821,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6886,7 +6886,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -6951,7 +6951,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7016,7 +7016,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7081,7 +7081,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7146,7 +7146,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7211,7 +7211,7 @@
         "workflow": "مُرسل للاعتماد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7276,7 +7276,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7341,7 +7341,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7406,7 +7406,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7471,7 +7471,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7536,7 +7536,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7558,7 +7558,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "الهاجرى",
@@ -7568,7 +7568,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سمايا",
@@ -7578,7 +7578,7 @@
         "no": 1,
         "na": 7,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سمايا",
@@ -7588,7 +7588,7 @@
         "no": 0,
         "na": 3,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سمايا",
@@ -7598,10 +7598,10 @@
         "no": 2,
         "na": 0,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7666,7 +7666,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7731,7 +7731,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7796,7 +7796,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7861,7 +7861,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7893,7 +7893,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
@@ -7903,17 +7903,17 @@
         "no": 1,
         "na": 5,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
         "main": "الصيانة",
         "sub": "الاصلاحات",
-        "yes": 8,
-        "no": 0,
+        "yes": 7,
+        "no": 1,
         "na": 1,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
@@ -7923,10 +7923,10 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مرفوض — قيد التعديل"
+        "workflow": "مُرسل للاعتماد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -7991,7 +7991,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8056,7 +8056,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8121,7 +8121,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8186,7 +8186,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8251,7 +8251,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8316,7 +8316,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8381,7 +8381,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8446,7 +8446,7 @@
         "workflow": "مُرسل للاعتماد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8511,7 +8511,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8576,7 +8576,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8641,7 +8641,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8706,7 +8706,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8771,7 +8771,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8836,7 +8836,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8901,7 +8901,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -8966,7 +8966,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9031,7 +9031,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9096,7 +9096,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9161,7 +9161,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9210,8 +9210,8 @@
         "main": "الصيانة",
         "sub": "الاصلاحات",
         "yes": 8,
-        "no": 0,
-        "na": 1,
+        "no": 1,
+        "na": 0,
         "blank": 0,
         "workflow": "draft"
       },
@@ -9226,7 +9226,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9291,7 +9291,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9356,7 +9356,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9421,7 +9421,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9486,7 +9486,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9551,7 +9551,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9616,7 +9616,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9681,7 +9681,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9746,7 +9746,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9811,7 +9811,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9876,7 +9876,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9941,7 +9941,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -9973,7 +9973,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       },
       {
         "contractor": "سما الافاق",
@@ -9983,7 +9983,7 @@
         "no": 2,
         "na": 3,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       },
       {
         "contractor": "سما الافاق",
@@ -9993,7 +9993,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       },
       {
         "contractor": "سما الافاق",
@@ -10003,10 +10003,10 @@
         "no": 1,
         "na": 0,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10071,7 +10071,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10136,7 +10136,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10201,7 +10201,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10266,7 +10266,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10331,7 +10331,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10396,7 +10396,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10461,7 +10461,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10526,7 +10526,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10591,7 +10591,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10609,11 +10609,11 @@
         "contractor": "الهاجرى",
         "main": "النظافة",
         "sub": "النظافة",
-        "yes": 6,
+        "yes": 8,
         "no": 0,
         "na": 0,
-        "blank": 2,
-        "workflow": "draft"
+        "blank": 0,
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "حمدان فريح",
@@ -10629,8 +10629,8 @@
         "contractor": "سما الافاق",
         "main": "الصيانة",
         "sub": "السلامة",
-        "yes": 10,
-        "no": 0,
+        "yes": 9,
+        "no": 1,
         "na": 3,
         "blank": 0,
         "workflow": "draft"
@@ -10639,8 +10639,8 @@
         "contractor": "سما الافاق",
         "main": "الصيانة",
         "sub": "الاصلاحات",
-        "yes": 6,
-        "no": 3,
+        "yes": 5,
+        "no": 4,
         "na": 0,
         "blank": 0,
         "workflow": "draft"
@@ -10656,7 +10656,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10721,7 +10721,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10786,7 +10786,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10851,7 +10851,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10916,7 +10916,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -10981,7 +10981,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11046,7 +11046,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11111,7 +11111,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11176,7 +11176,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11241,7 +11241,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11306,7 +11306,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11371,7 +11371,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11436,7 +11436,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11501,7 +11501,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11566,7 +11566,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11631,7 +11631,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11696,7 +11696,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11761,7 +11761,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11826,7 +11826,7 @@
         "workflow": "محفوظ"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11891,7 +11891,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -11923,7 +11923,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
@@ -11933,7 +11933,7 @@
         "no": 0,
         "na": 4,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
@@ -11943,7 +11943,7 @@
         "no": 0,
         "na": 2,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
@@ -11953,10 +11953,10 @@
         "no": 0,
         "na": 1,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "مُرسل للاعتماد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12021,7 +12021,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12086,7 +12086,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12151,7 +12151,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12216,7 +12216,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12281,7 +12281,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12346,7 +12346,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12411,7 +12411,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12476,7 +12476,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12541,7 +12541,7 @@
         "workflow": "مُرسل للاعتماد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12606,7 +12606,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12671,7 +12671,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12736,7 +12736,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12801,7 +12801,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12866,7 +12866,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12931,7 +12931,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -12996,7 +12996,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13061,7 +13061,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13126,7 +13126,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13191,7 +13191,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13256,7 +13256,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13321,7 +13321,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13386,7 +13386,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13451,7 +13451,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13516,7 +13516,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13581,7 +13581,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13646,7 +13646,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13711,7 +13711,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13776,7 +13776,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13841,7 +13841,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13906,7 +13906,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -13971,7 +13971,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14036,7 +14036,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14101,7 +14101,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14166,7 +14166,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14231,7 +14231,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14296,7 +14296,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14361,7 +14361,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14426,7 +14426,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14491,7 +14491,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14556,7 +14556,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14621,7 +14621,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14686,7 +14686,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14751,7 +14751,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14816,7 +14816,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14881,7 +14881,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14946,7 +14946,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -14978,7 +14978,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "مرفوض — قيد التعديل"
       },
       {
         "contractor": "سما الافاق",
@@ -14988,7 +14988,7 @@
         "no": 0,
         "na": 3,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "مرفوض — قيد التعديل"
       },
       {
         "contractor": "سما الافاق",
@@ -14998,7 +14998,7 @@
         "no": 4,
         "na": 1,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "مرفوض — قيد التعديل"
       },
       {
         "contractor": "سما الافاق",
@@ -15008,10 +15008,10 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "مُرسل للاعتماد"
+        "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15076,7 +15076,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15141,7 +15141,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15206,7 +15206,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15271,7 +15271,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15336,7 +15336,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15401,7 +15401,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15419,11 +15419,11 @@
         "contractor": "الهاجرى",
         "main": "النظافة",
         "sub": "النظافة",
-        "yes": 3,
+        "yes": 8,
         "no": 0,
         "na": 0,
-        "blank": 5,
-        "workflow": "draft"
+        "blank": 0,
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "حمدان فريح",
@@ -15466,7 +15466,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15531,7 +15531,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15596,7 +15596,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15661,7 +15661,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15726,7 +15726,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15791,7 +15791,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15856,7 +15856,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15921,7 +15921,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -15986,7 +15986,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16051,7 +16051,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16116,7 +16116,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16181,7 +16181,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16246,7 +16246,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16311,7 +16311,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16376,7 +16376,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16441,7 +16441,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16506,7 +16506,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16571,7 +16571,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16636,7 +16636,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16701,7 +16701,7 @@
         "workflow": "محفوظ"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16766,7 +16766,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16831,7 +16831,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16896,7 +16896,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -16961,7 +16961,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17026,7 +17026,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17091,7 +17091,7 @@
         "workflow": "محفوظ"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17156,7 +17156,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17221,7 +17221,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17286,7 +17286,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17351,7 +17351,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17416,7 +17416,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17481,7 +17481,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17546,7 +17546,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17611,7 +17611,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17676,7 +17676,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17741,7 +17741,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17773,7 +17773,7 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
@@ -17783,7 +17783,7 @@
         "no": 0,
         "na": 3,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
@@ -17793,7 +17793,7 @@
         "no": 0,
         "na": 1,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "مُرسل للاعتماد"
       },
       {
         "contractor": "سما الافاق",
@@ -17803,10 +17803,10 @@
         "no": 0,
         "na": 0,
         "blank": 0,
-        "workflow": "draft"
+        "workflow": "مُرسل للاعتماد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17871,7 +17871,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -17936,7 +17936,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18001,7 +18001,7 @@
         "workflow": "محفوظ"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18066,7 +18066,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18131,7 +18131,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18196,7 +18196,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18261,7 +18261,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18326,7 +18326,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18391,7 +18391,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18456,7 +18456,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18521,7 +18521,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18586,7 +18586,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18651,7 +18651,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18716,7 +18716,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18781,7 +18781,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18846,7 +18846,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18911,7 +18911,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -18976,7 +18976,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19041,7 +19041,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19106,7 +19106,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19171,7 +19171,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19236,7 +19236,7 @@
         "workflow": "مرفوض — قيد التعديل"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19301,7 +19301,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19366,7 +19366,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19431,7 +19431,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19496,7 +19496,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19561,7 +19561,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19626,7 +19626,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19691,7 +19691,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19756,7 +19756,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19821,7 +19821,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19886,7 +19886,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -19951,7 +19951,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20016,7 +20016,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20081,7 +20081,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20146,7 +20146,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20211,7 +20211,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20276,7 +20276,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20341,7 +20341,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20406,7 +20406,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20471,7 +20471,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20536,7 +20536,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20601,7 +20601,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20666,7 +20666,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20731,7 +20731,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20796,7 +20796,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20861,7 +20861,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20926,7 +20926,7 @@
         "workflow": "draft"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   },
   {
@@ -20991,7 +20991,7 @@
         "workflow": "معتمد"
       }
     ],
-    "_updatedAt": "2026-08-11T13:54:09.204Z",
+    "_updatedAt": "2026-08-11T15:01:41.668Z",
     "_schemaVersion": 2
   }
 ]
