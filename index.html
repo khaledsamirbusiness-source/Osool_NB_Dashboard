@@ -5387,7 +5387,6 @@ const num = v => {
 };
 const pct = (n,d) => d ? (n/d*100) : 0;
 const fmtPct = n => `${n.toFixed(1)}%`;
-const fmtPctTrunc1 = n => `${(Math.floor((Number(n)||0)*10)/10).toFixed(1)}%`;
 const fmtPctInt = n => `${Math.round(Number(n)||0)}%`;
 
 function normalizeLegacyRecord(r){
@@ -5792,11 +5791,8 @@ function updateMetrics(data){
   $("completePct").textContent=fmtPct(pct(complete,total));
   $("partialPct").textContent=fmtPct(pct(partial,total));
   $("notStartedPct").textContent=fmtPct(pct(notstarted,total));
-  // الكارتان فقط: إظهار أول منزلة عشرية بدون رفعها لعدد صحيح، مع جعل النسبتين مكملتين لبعضهما
-  const readyPctValue = Math.floor((pct(ready,total) + Number.EPSILON) * 10) / 10;
-  const notReadyPctValue = Math.round((100 - readyPctValue) * 10) / 10;
-  $("readyPct").textContent=`${readyPctValue.toFixed(1)}%`;
-  $("notReadyPct").textContent=`${notReadyPctValue.toFixed(1)}%`;
+  $("readyPct").textContent=fmtPct(pct(ready,total));
+  $("notReadyPct").textContent=fmtPct(pct(notReady,total));
 }
 const STATUS_COLORS = {
   "معتمد":"#20bf6b",
